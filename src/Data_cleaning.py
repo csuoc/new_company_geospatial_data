@@ -78,6 +78,6 @@ df_full = df_full.sort_values(by="Total money (in million $)", ascending=False)
 
 df_full["Number of employees"] = df_full["Number of employees"].astype(int)
 df_final = df_full.reset_index(drop=True)
-    
-df_finalcsv = df_final.to_csv("../data/companies_cleaned.csv", index = False)
 
+#Export to CSV for further analysis    
+df_finalcsv = df_final.to_csv("../data/companies_cleaned.csv", index = False)
