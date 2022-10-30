@@ -1,0 +1,5 @@
+name,lat,lon,distance,type
+M21 bus stop,40.726703,-73.998526,181,"{'typepoint': {'type': 'Point', 'coordinates': [40.726703, -73.998526]}}"
+M21 Bus Stop West Houston,40.727714,-74.001011,392,"{'typepoint': {'type': 'Point', 'coordinates': [40.727714, -74.001011]}}"
+NYU Bus Stop,40.721724,-73.997151,412,"{'typepoint': {'type': 'Point', 'coordinates': [40.721724, -73.997151]}}"
+MTA MaBSTOA Bus - M21 / M103 at Bowery / Houston Street,40.723902,-73.992435,434,"{'typepoint': {'type': 'Point', 'coordinates': [40.723902, -73.992435]}}"

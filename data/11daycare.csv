@@ -1,0 +1,3 @@
+name,lat,lon,distance,type
+Soiree Sitters,37.393059,-122.077725,170,"{'typepoint': {'type': 'Point', 'coordinates': [37.393059, -122.077725]}}"
+Young Giggles,37.397375,-122.076104,388,"{'typepoint': {'type': 'Point', 'coordinates': [37.397375, -122.076104]}}"

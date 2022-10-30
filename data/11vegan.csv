@@ -1,0 +1,2 @@
+name,lat,lon,distance,type
+Sweetgreen,37.391009,-122.081118,457,"{'typepoint': {'type': 'Point', 'coordinates': [37.391009, -122.081118]}}"

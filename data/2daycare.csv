@@ -1,0 +1,5 @@
+name,lat,lon,distance,type
+Sewing In Soho,40.724738,-74.001374,166,"{'typepoint': {'type': 'Point', 'coordinates': [40.724738, -74.001374]}}"
+Vivvi,40.723393,-74.00717,463,"{'typepoint': {'type': 'Point', 'coordinates': [40.723393, -74.00717]}}"
+Day Care Council-Local 205 D C 1707 Welfare Fund,40.723264,-74.005986,360,"{'typepoint': {'type': 'Point', 'coordinates': [40.723264, -74.005986]}}"
+Tribeca Early Learning Center,40.721331,-74.005648,402,"{'typepoint': {'type': 'Point', 'coordinates': [40.721331, -74.005648]}}"

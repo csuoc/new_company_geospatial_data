@@ -1,0 +1,11 @@
+name,lat,lon,distance,type
+The Eagle,40.751736,-74.00445,128,"{'typepoint': {'type': 'Point', 'coordinates': [40.751736, -74.00445]}}"
+The Frying Pan,40.752274,-74.00849,341,"{'typepoint': {'type': 'Point', 'coordinates': [40.752274, -74.00849]}}"
+Marquee,40.75004,-74.002688,343,"{'typepoint': {'type': 'Point', 'coordinates': [40.75004, -74.002688]}}"
+Sol,40.753076,-74.004809,106,"{'typepoint': {'type': 'Point', 'coordinates': [40.753076, -74.004809]}}"
+Provocateur,40.752273,-74.002593,240,"{'typepoint': {'type': 'Point', 'coordinates': [40.752273, -74.002593]}}"
+Twilo,40.750572,-74.003618,243,"{'typepoint': {'type': 'Point', 'coordinates': [40.750572, -74.003618]}}"
+I Press Vinyl Records,40.752781,-74.003749,159,"{'typepoint': {'type': 'Point', 'coordinates': [40.752781, -74.003749]}}"
+530 W 28th,40.751176,-74.003249,236,"{'typepoint': {'type': 'Point', 'coordinates': [40.751176, -74.003249]}}"
+Guesthouse,40.750565,-74.00388,246,"{'typepoint': {'type': 'Point', 'coordinates': [40.750565, -74.00388]}}"
+Myst Night Club,40.75135,-74.002775,261,"{'typepoint': {'type': 'Point', 'coordinates': [40.75135, -74.002775]}}"

@@ -1,0 +1,8 @@
+name,lat,lon,distance,type
+Le Botaniste,40.720398,-74.000286,341,"{'typepoint': {'type': 'Point', 'coordinates': [40.720398, -74.000286]}}"
+Zooba,40.72118,-73.997304,440,"{'typepoint': {'type': 'Point', 'coordinates': [40.72118, -73.997304]}}"
+Farmacy At Chef’s Club Counter,40.722263,-73.997388,384,"{'typepoint': {'type': 'Point', 'coordinates': [40.722263, -73.997388]}}"
+Beyond Sushi,40.722286,-73.9963,481,"{'typepoint': {'type': 'Point', 'coordinates': [40.722286, -73.9963]}}"
+Gran Tivoli,40.721116,-73.997695,431,"{'typepoint': {'type': 'Point', 'coordinates': [40.721116, -73.997695]}}"
+Areppas,40.721889,-73.997027,422,"{'typepoint': {'type': 'Point', 'coordinates': [40.721889, -73.997027]}}"
+Jerrell's Betr BRGR,40.723579,-74.004901,270,"{'typepoint': {'type': 'Point', 'coordinates': [40.723579, -74.004901]}}"

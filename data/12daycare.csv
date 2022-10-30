@@ -1,0 +1,4 @@
+name,lat,lon,distance,type
+Bark Avenue,37.775605,-122.394309,274,"{'typepoint': {'type': 'Point', 'coordinates': [37.775605, -122.394309]}}"
+Sheleen Family Childcare,37.776754,-122.392943,271,"{'typepoint': {'type': 'Point', 'coordinates': [37.776754, -122.392943]}}"
+Señorita's Preschool & Childcare,37.773487,-122.396683,476,"{'typepoint': {'type': 'Point', 'coordinates': [37.773487, -122.396683]}}"

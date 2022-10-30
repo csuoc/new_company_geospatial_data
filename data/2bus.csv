@@ -1,0 +1,4 @@
+name,lat,lon,distance,type
+NYU Bus Stop,40.721724,-73.997151,406,"{'typepoint': {'type': 'Point', 'coordinates': [40.721724, -73.997151]}}"
+M21 bus stop,40.726703,-73.998526,458,"{'typepoint': {'type': 'Point', 'coordinates': [40.726703, -73.998526]}}"
+M21 Bus Stop West Houston,40.727714,-74.001011,473,"{'typepoint': {'type': 'Point', 'coordinates': [40.727714, -74.001011]}}"

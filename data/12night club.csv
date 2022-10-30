@@ -1,0 +1,5 @@
+name,lat,lon,distance,type
+The Grand Nightclub,37.779182,-122.397961,229,"{'typepoint': {'type': 'Point', 'coordinates': [37.779182, -122.397961]}}"
+Rhythm Ethics Productions,37.778185,-122.393888,174,"{'typepoint': {'type': 'Point', 'coordinates': [37.778185, -122.393888]}}"
+PSB,37.777497,-122.393059,240,"{'typepoint': {'type': 'Point', 'coordinates': [37.777497, -122.393059]}}"
+Living Room,37.779182,-122.397961,250,"{'typepoint': {'type': 'Point', 'coordinates': [37.779182, -122.397961]}}"

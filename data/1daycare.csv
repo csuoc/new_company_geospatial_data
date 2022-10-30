@@ -1,0 +1,3 @@
+name,lat,lon,distance,type
+University Plaza Nursery School,40.72711,-73.997451,173,"{'typepoint': {'type': 'Point', 'coordinates': [40.72711, -73.997451]}}"
+Sewing In Soho,40.724738,-74.001374,346,"{'typepoint': {'type': 'Point', 'coordinates': [40.724738, -74.001374]}}"

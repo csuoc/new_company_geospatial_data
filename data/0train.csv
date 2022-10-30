@@ -1,0 +1,3 @@
+name,lat,lon,distance,type
+Railroad Crossing,37.769481,-122.406493,428,"{'typepoint': {'type': 'Point', 'coordinates': [37.769481, -122.406493]}}"
+2nd & King Station,37.771251,-122.396992,411,"{'typepoint': {'type': 'Point', 'coordinates': [37.771251, -122.396992]}}"

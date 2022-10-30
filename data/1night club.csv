@@ -1,0 +1,11 @@
+name,lat,lon,distance,type
+Madame X,40.727202,-74.00003,299,"{'typepoint': {'type': 'Point', 'coordinates': [40.727202, -74.00003]}}"
+Botanica Bar,40.724693,-73.994714,256,"{'typepoint': {'type': 'Point', 'coordinates': [40.724693, -73.994714]}}"
+Bowery Poetry Club,40.724922,-73.992606,407,"{'typepoint': {'type': 'Point', 'coordinates': [40.724922, -73.992606]}}"
+The Outpost,40.723951,-73.996584,173,"{'typepoint': {'type': 'Point', 'coordinates': [40.723951, -73.996584]}}"
+Crooked Disco,40.728332,-74.000119,395,"{'typepoint': {'type': 'Point', 'coordinates': [40.728332, -74.000119]}}"
+The Gallery at LPR,40.728332,-74.000119,395,"{'typepoint': {'type': 'Point', 'coordinates': [40.728332, -74.000119]}}"
+Drag Queen Bingo,40.728332,-74.000119,395,"{'typepoint': {'type': 'Point', 'coordinates': [40.728332, -74.000119]}}"
+Stardust Lounge,40.721075,-73.997213,472,"{'typepoint': {'type': 'Point', 'coordinates': [40.721075, -73.997213]}}"
+The Southside,40.721116,-73.997695,480,"{'typepoint': {'type': 'Point', 'coordinates': [40.721116, -73.997695]}}"
+The Moth Storyslam,40.721581,-74.00042,498,"{'typepoint': {'type': 'Point', 'coordinates': [40.721581, -74.00042]}}"

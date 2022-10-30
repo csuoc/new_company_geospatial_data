@@ -1,0 +1,9 @@
+name,lat,lon,distance,type
+San Francisco Caltrain Station,37.776537,-122.394938,151,"{'typepoint': {'type': 'Point', 'coordinates': [37.776537, -122.394938]}}"
+Caltrain MUNI Metro Station,37.77587,-122.395544,190,"{'typepoint': {'type': 'Point', 'coordinates': [37.77587, -122.395544]}}"
+Caltrain,37.775816,-122.395397,209,"{'typepoint': {'type': 'Point', 'coordinates': [37.775816, -122.395397]}}"
+MUNI Metro Stop - 4th & King,37.77599,-122.393974,224,"{'typepoint': {'type': 'Point', 'coordinates': [37.77599, -122.393974]}}"
+Caltrain,37.77677,-122.39488,132,"{'typepoint': {'type': 'Point', 'coordinates': [37.77677, -122.39488]}}"
+San Francisco 4th and King Street Station,37.776705,-122.394876,138,"{'typepoint': {'type': 'Point', 'coordinates': [37.776705, -122.394876]}}"
+Caltrain #802 Bullet,37.775767,-122.395609,217,"{'typepoint': {'type': 'Point', 'coordinates': [37.775767, -122.395609]}}"
+Caltrain King Street Terminus | train station,37.775642,-122.39596,231,"{'typepoint': {'type': 'Point', 'coordinates': [37.775642, -122.39596]}}"

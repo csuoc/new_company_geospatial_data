@@ -1,0 +1,4 @@
+name,lat,lon,distance,type
+MUNI Stop,37.787348,-122.404392,135,"{'typepoint': {'type': 'Point', 'coordinates': [37.787348, -122.404392]}}"
+Montgomery MUNI Metro Station,37.788769,-122.402039,145,"{'typepoint': {'type': 'Point', 'coordinates': [37.788769, -122.402039]}}"
+MUNI / BART Station,37.789078,-122.401842,178,"{'typepoint': {'type': 'Point', 'coordinates': [37.789078, -122.401842]}}"

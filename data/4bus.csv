@@ -1,0 +1,8 @@
+name,lat,lon,distance,type
+MUNI Bus Stop - 16th & Vermont,37.765974,-122.404924,102,"{'typepoint': {'type': 'Point', 'coordinates': [37.765974, -122.404924]}}"
+Bus Stop,37.765097,-122.401862,221,"{'typepoint': {'type': 'Point', 'coordinates': [37.765097, -122.401862]}}"
+Muni 19,37.767227,-122.402633,255,"{'typepoint': {'type': 'Point', 'coordinates': [37.767227, -122.402633]}}"
+MUNI 16th at Potrero 33 inbound,37.764612,-122.407783,296,"{'typepoint': {'type': 'Point', 'coordinates': [37.764612, -122.407783]}}"
+Bay Area SkiBus SF Pickup,37.766035,-122.401129,296,"{'typepoint': {'type': 'Point', 'coordinates': [37.766035, -122.401129]}}"
+Muni 19 Polk,37.761947,-122.402465,368,"{'typepoint': {'type': 'Point', 'coordinates': [37.761947, -122.402465]}}"
+Muni - Potrero Division,37.763641,-122.409548,496,"{'typepoint': {'type': 'Point', 'coordinates': [37.763641, -122.409548]}}"

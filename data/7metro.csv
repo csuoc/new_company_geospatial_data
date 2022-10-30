@@ -1,0 +1,2 @@
+name,lat,lon,distance,type
+Montgomery St BART Station,37.788824,-122.402185,153,"{'typepoint': {'type': 'Point', 'coordinates': [37.788824, -122.402185]}}"

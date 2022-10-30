@@ -1,0 +1,9 @@
+name,lat,lon,distance,type
+Asiana Airlines,37.789643,-122.400441,88,"{'typepoint': {'type': 'Point', 'coordinates': [37.789643, -122.400441]}}"
+Turkish Airlines,37.790531,-122.40078,143,"{'typepoint': {'type': 'Point', 'coordinates': [37.790531, -122.40078]}}"
+Lufthansa German Airlines,37.788758,-122.40346,194,"{'typepoint': {'type': 'Point', 'coordinates': [37.788758, -122.40346]}}"
+Vietnam Airlines,37.788661,-122.403466,198,"{'typepoint': {'type': 'Point', 'coordinates': [37.788661, -122.403466]}}"
+Singapore Airlines,37.790747,-122.403087,219,"{'typepoint': {'type': 'Point', 'coordinates': [37.790747, -122.403087]}}"
+Pacific Airfinance,37.792043,-122.402805,327,"{'typepoint': {'type': 'Point', 'coordinates': [37.792043, -122.402805]}}"
+World Star Aviation,37.79296,-122.400637,409,"{'typepoint': {'type': 'Point', 'coordinates': [37.79296, -122.400637]}}"
+GOGO JETS - San Francisco Private Jet Charter,37.792223,-122.398299,419,"{'typepoint': {'type': 'Point', 'coordinates': [37.792223, -122.398299]}}"

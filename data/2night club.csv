@@ -1,0 +1,11 @@
+name,lat,lon,distance,type
+Madame X,40.727202,-74.00003,439,"{'typepoint': {'type': 'Point', 'coordinates': [40.727202, -74.00003]}}"
+The Palace,40.721072,-74.00427,335,"{'typepoint': {'type': 'Point', 'coordinates': [40.721072, -74.00427]}}"
+Sonny's Soda Shoppe,40.719833,-74.000046,418,"{'typepoint': {'type': 'Point', 'coordinates': [40.719833, -74.000046]}}"
+The Outpost,40.723951,-73.996584,439,"{'typepoint': {'type': 'Point', 'coordinates': [40.723951, -73.996584]}}"
+KTU Professional Radio DJ Night Club and Lounge,40.720325,-74.004953,446,"{'typepoint': {'type': 'Point', 'coordinates': [40.720325, -74.004953]}}"
+Stardust Lounge,40.721075,-73.997213,455,"{'typepoint': {'type': 'Point', 'coordinates': [40.721075, -73.997213]}}"
+Hotlist,40.722432,-74.002854,143,"{'typepoint': {'type': 'Point', 'coordinates': [40.722432, -74.002854]}}"
+The Moth Storyslam,40.721581,-74.00042,227,"{'typepoint': {'type': 'Point', 'coordinates': [40.721581, -74.00042]}}"
+N 33 Crosby Bar & Tapas,40.72091,-73.999302,341,"{'typepoint': {'type': 'Point', 'coordinates': [40.72091, -73.999302]}}"
+The Southside,40.721116,-73.997695,421,"{'typepoint': {'type': 'Point', 'coordinates': [40.721116, -73.997695]}}"

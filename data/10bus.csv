@@ -1,0 +1,7 @@
+name,lat,lon,distance,type
+MUNI Bus Stop - 2nd & Harrison,37.784132,-122.39517,158,"{'typepoint': {'type': 'Point', 'coordinates': [37.784132, -122.39517]}}"
+MUNI Bus Stop - Harrison & 2nd,37.784305,-122.395467,176,"{'typepoint': {'type': 'Point', 'coordinates': [37.784305, -122.395467]}}"
+MUNI Bus Stop - Brannan & 2nd,37.781579,-122.392223,232,"{'typepoint': {'type': 'Point', 'coordinates': [37.781579, -122.392223]}}"
+MUNI Bus Stop - 3rd & Perry,37.781735,-122.396606,267,"{'typepoint': {'type': 'Point', 'coordinates': [37.781735, -122.396606]}}"
+Golden Gate Transit,37.78206,-122.397485,307,"{'typepoint': {'type': 'Point', 'coordinates': [37.78206, -122.397485]}}"
+MUNI Bus Stop - Townsend & 3rd,37.77888,-122.392495,475,"{'typepoint': {'type': 'Point', 'coordinates': [37.77888, -122.392495]}}"

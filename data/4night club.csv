@@ -1,0 +1,6 @@
+name,lat,lon,distance,type
+The Great Northern,37.767481,-122.40659,320,"{'typepoint': {'type': 'Point', 'coordinates': [37.767481, -122.40659]}}"
+Breakfast of Champions,37.767936,-122.406617,387,"{'typepoint': {'type': 'Point', 'coordinates': [37.767936, -122.406617]}}"
+Castle SF,37.767562,-122.40595,295,"{'typepoint': {'type': 'Point', 'coordinates': [37.767562, -122.40595]}}"
+Mission Fusion,37.763286,-122.401612,309,"{'typepoint': {'type': 'Point', 'coordinates': [37.763286, -122.401612]}}"
+Metronome Ballroom,37.764967,-122.401855,210,"{'typepoint': {'type': 'Point', 'coordinates': [37.764967, -122.401855]}}"

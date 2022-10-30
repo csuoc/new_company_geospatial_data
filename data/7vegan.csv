@@ -1,0 +1,5 @@
+name,lat,lon,distance,type
+Sweetgreen,37.787182,-122.398432,364,"{'typepoint': {'type': 'Point', 'coordinates': [37.787182, -122.398432]}}"
+Mixt,37.785581,-122.404432,242,"{'typepoint': {'type': 'Point', 'coordinates': [37.785581, -122.404432]}}"
+The Plant Cafe Organic,37.79175,-122.402358,471,"{'typepoint': {'type': 'Point', 'coordinates': [37.79175, -122.402358]}}"
+Vida Cantina SF,37.79146,-122.403704,427,"{'typepoint': {'type': 'Point', 'coordinates': [37.79146, -122.403704]}}"

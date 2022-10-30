@@ -1,0 +1,6 @@
+name,lat,lon,distance,type
+Club X,37.78206,-122.397485,339,"{'typepoint': {'type': 'Point', 'coordinates': [37.78206, -122.397485]}}"
+City Nights,37.782039,-122.397771,325,"{'typepoint': {'type': 'Point', 'coordinates': [37.782039, -122.397771]}}"
+SYNERGY's GLOW,37.785531,-122.393101,265,"{'typepoint': {'type': 'Point', 'coordinates': [37.785531, -122.393101]}}"
+Infusion,37.782522,-122.392709,132,"{'typepoint': {'type': 'Point', 'coordinates': [37.782522, -122.392709]}}"
+Serena SF Clubs Guest Lists,37.782039,-122.397771,344,"{'typepoint': {'type': 'Point', 'coordinates': [37.782039, -122.397771]}}"

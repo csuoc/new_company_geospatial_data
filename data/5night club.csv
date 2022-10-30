@@ -1,0 +1,6 @@
+name,lat,lon,distance,type
+Southside Spirit House,37.787118,-122.397568,401,"{'typepoint': {'type': 'Point', 'coordinates': [37.787118, -122.397568]}}"
+City Club of San Francisco,37.791783,-122.401069,304,"{'typepoint': {'type': 'Point', 'coordinates': [37.791783, -122.401069]}}"
+Love + Propaganda,37.788681,-122.406622,488,"{'typepoint': {'type': 'Point', 'coordinates': [37.788681, -122.406622]}}"
+Temple Nightclub,37.787904,-122.397112,396,"{'typepoint': {'type': 'Point', 'coordinates': [37.787904, -122.397112]}}"
+Alibi,37.786428,-122.40018,341,"{'typepoint': {'type': 'Point', 'coordinates': [37.786428, -122.40018]}}"

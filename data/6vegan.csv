@@ -1,0 +1,4 @@
+name,lat,lon,distance,type
+Sweetgreen,40.752639,-74.001035,377,"{'typepoint': {'type': 'Point', 'coordinates': [40.752639, -74.001035]}}"
+Jack's Stir Brew Coffee,40.753503,-74.000982,338,"{'typepoint': {'type': 'Point', 'coordinates': [40.753503, -74.000982]}}"
+Cafe Blossom,40.748575,-74.005635,422,"{'typepoint': {'type': 'Point', 'coordinates': [40.748575, -74.005635]}}"

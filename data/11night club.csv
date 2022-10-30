@@ -1,0 +1,6 @@
+name,lat,lon,distance,type
+Alberto's Night Club,37.392426,-122.078764,243,"{'typepoint': {'type': 'Point', 'coordinates': [37.392426, -122.078764]}}"
+Monte Carlo,37.393495,-122.079395,133,"{'typepoint': {'type': 'Point', 'coordinates': [37.393495, -122.079395]}}"
+Opal,37.393021,-122.079154,154,"{'typepoint': {'type': 'Point', 'coordinates': [37.393021, -122.079154]}}"
+Molly Mcgee's,37.393293,-122.079026,136,"{'typepoint': {'type': 'Point', 'coordinates': [37.393293, -122.079026]}}"
+R.A. Blues,37.392426,-122.078764,226,"{'typepoint': {'type': 'Point', 'coordinates': [37.392426, -122.078764]}}"

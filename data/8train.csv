@@ -1,0 +1,4 @@
+name,lat,lon,distance,type
+MUNI Metro Stop - Embarcadero & Sansome,37.804732,-122.403059,111,"{'typepoint': {'type': 'Point', 'coordinates': [37.804732, -122.403059]}}"
+MUNI Metro Stop - Embarcadero & Green,37.800982,-122.399218,427,"{'typepoint': {'type': 'Point', 'coordinates': [37.800982, -122.399218]}}"
+MUNI Metro Stop - Embarcadero & Bay,37.807141,-122.406133,470,"{'typepoint': {'type': 'Point', 'coordinates': [37.807141, -122.406133]}}"

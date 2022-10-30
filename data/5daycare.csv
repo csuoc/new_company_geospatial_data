@@ -1,0 +1,4 @@
+name,lat,lon,distance,type
+California Child Care Resources & Referral Network,37.787285,-122.400087,297,"{'typepoint': {'type': 'Point', 'coordinates': [37.787285, -122.400087]}}"
+Bright Horizons,37.792276,-122.403607,372,"{'typepoint': {'type': 'Point', 'coordinates': [37.792276, -122.403607]}}"
+American Child Care Service,37.792942,-122.404119,469,"{'typepoint': {'type': 'Point', 'coordinates': [37.792942, -122.404119]}}"

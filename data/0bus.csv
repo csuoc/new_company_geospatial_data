@@ -1,0 +1,7 @@
+name,lat,lon,distance,type
+Muni,37.770046,-122.403372,170,"{'typepoint': {'type': 'Point', 'coordinates': [37.770046, -122.403372]}}"
+Muni,37.769666,-122.403207,170,"{'typepoint': {'type': 'Point', 'coordinates': [37.769666, -122.403207]}}"
+Muni 19,37.772204,-122.401636,180,"{'typepoint': {'type': 'Point', 'coordinates': [37.772204, -122.401636]}}"
+Muni 19,37.767227,-122.402633,392,"{'typepoint': {'type': 'Point', 'coordinates': [37.767227, -122.402633]}}"
+Bay Area SkiBus SF Pickup,37.766035,-122.401129,480,"{'typepoint': {'type': 'Point', 'coordinates': [37.766035, -122.401129]}}"
+Bryant & 7th Genenbus,37.774415,-122.404347,499,"{'typepoint': {'type': 'Point', 'coordinates': [37.774415, -122.404347]}}"

@@ -1,0 +1,4 @@
+name,lat,lon,distance,type
+11th Ave Bridge,40.7529,-74.003317,209,"{'typepoint': {'type': 'Point', 'coordinates': [40.7529, -74.003317]}}"
+MTA Bus - M23 - West 24th St & 11th Ave,40.749986,-74.007308,317,"{'typepoint': {'type': 'Point', 'coordinates': [40.749986, -74.007308]}}"
+MTA bus M23,40.748925,-74.006654,409,"{'typepoint': {'type': 'Point', 'coordinates': [40.748925, -74.006654]}}"
