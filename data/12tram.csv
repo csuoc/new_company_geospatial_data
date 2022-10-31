@@ -1,4 +1,1 @@
-name,lat,lon,distance,type
-Powell Street Cable Car Turnaround,37.784783,-122.40761,1298,"{'typepoint': {'type': 'Point', 'coordinates': [37.784783, -122.40761]}}"
-Salesforce Transit Center Gondola,37.790105,-122.396525,1382,"{'typepoint': {'type': 'Point', 'coordinates': [37.790105, -122.396525]}}"
-California Cable Car Turnaround-East,37.793883,-122.396246,1782,"{'typepoint': {'type': 'Point', 'coordinates': [37.793883, -122.396246]}}"
+

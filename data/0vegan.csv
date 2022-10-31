@@ -1,11 +1,5 @@
 name,lat,lon,distance,type
-The Flying Falafel,37.78124,-122.411217,1465,"{'typepoint': {'type': 'Point', 'coordinates': [37.78124, -122.411217]}}"
-Ananda Fuara,37.77789,-122.416164,1523,"{'typepoint': {'type': 'Point', 'coordinates': [37.77789, -122.416164]}}"
-Sweetgreen,37.787182,-122.398432,1879,"{'typepoint': {'type': 'Point', 'coordinates': [37.787182, -122.398432]}}"
-Gracias Madre,37.761621,-122.419145,1840,"{'typepoint': {'type': 'Point', 'coordinates': [37.761621, -122.419145]}}"
-Golden Era Vegan Restaurant,37.781359,-122.416942,1802,"{'typepoint': {'type': 'Point', 'coordinates': [37.781359, -122.416942]}}"
-Mixt,37.785581,-122.404432,1708,"{'typepoint': {'type': 'Point', 'coordinates': [37.785581, -122.404432]}}"
-Baia,37.77817,-122.421915,1966,"{'typepoint': {'type': 'Point', 'coordinates': [37.77817, -122.421915]}}"
-The Plant Cafe Organic,37.759927,-122.388226,1657,"{'typepoint': {'type': 'Point', 'coordinates': [37.759927, -122.388226]}}"
 Thai Basil Cart,37.776768,-122.402622,698,"{'typepoint': {'type': 'Point', 'coordinates': [37.776768, -122.402622]}}"
 Ginger Bowls,37.776849,-122.402842,723,"{'typepoint': {'type': 'Point', 'coordinates': [37.776849, -122.402842]}}"
+Next Level Burger Potrero Hill,37.764652,-122.402801,659,"{'typepoint': {'type': 'Point', 'coordinates': [37.764652, -122.402801]}}"
+Plant B,37.776829,-122.402645,708,"{'typepoint': {'type': 'Point', 'coordinates': [37.776829, -122.402645]}}"

@@ -1,11 +1,4 @@
 name,lat,lon,distance,type
-Moynihan Train Hall,40.751233,-73.99517,902,"{'typepoint': {'type': 'Point', 'coordinates': [40.751233, -73.99517]}}"
-West End Concourse,40.751695,-73.994053,979,"{'typepoint': {'type': 'Point', 'coordinates': [40.751695, -73.994053]}}"
 MTA - 34th Street Hudson Yards Subway Station,40.755075,-74.000738,496,"{'typepoint': {'type': 'Point', 'coordinates': [40.755075, -74.000738]}}"
-Ogilvy Shuttle - Penn Station Stop,40.750112,-73.994733,930,"{'typepoint': {'type': 'Point', 'coordinates': [40.750112, -73.994733]}}"
-Gate 9,40.753734,-73.994482,932,"{'typepoint': {'type': 'Point', 'coordinates': [40.753734, -73.994482]}}"
-Penn Station West End Concourse,40.750825,-73.994281,948,"{'typepoint': {'type': 'Point', 'coordinates': [40.750825, -73.994281]}}"
-Railworks Corporation,40.751911,-73.994061,953,"{'typepoint': {'type': 'Point', 'coordinates': [40.751911, -73.994061]}}"
-LIRR 8:22 to Hicksville,40.751544,-73.993654,997,"{'typepoint': {'type': 'Point', 'coordinates': [40.751544, -73.993654]}}"
-LIRR Tickets & Information,40.75069,-73.991305,1211,"{'typepoint': {'type': 'Point', 'coordinates': [40.75069, -73.991305]}}"
-Amtrak Lost & Found / Package Express,40.750315,-73.993212,1050,"{'typepoint': {'type': 'Point', 'coordinates': [40.750315, -73.993212]}}"
+Go Buses,40.751418,-73.998279,622,"{'typepoint': {'type': 'Point', 'coordinates': [40.751418, -73.998279]}}"
+Amtrak,40.751531,-73.998109,634,"{'typepoint': {'type': 'Point', 'coordinates': [40.751531, -73.998109]}}"

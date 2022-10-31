@@ -1,11 +1,3 @@
 name,lat,lon,distance,type
 Railroad Crossing,37.769481,-122.406493,428,"{'typepoint': {'type': 'Point', 'coordinates': [37.769481, -122.406493]}}"
-Caltrain MUNI Metro Station,37.77587,-122.395544,807,"{'typepoint': {'type': 'Point', 'coordinates': [37.77587, -122.395544]}}"
-Caltrain,37.775816,-122.395397,815,"{'typepoint': {'type': 'Point', 'coordinates': [37.775816, -122.395397]}}"
-MUNI Metro Stop - 4th & King,37.77599,-122.393974,897,"{'typepoint': {'type': 'Point', 'coordinates': [37.77599, -122.393974]}}"
-San Francisco Caltrain Station,37.776537,-122.394938,888,"{'typepoint': {'type': 'Point', 'coordinates': [37.776537, -122.394938]}}"
-MUNI Metro Stop - UCSF/Mission Bay,37.769296,-122.389637,1080,"{'typepoint': {'type': 'Point', 'coordinates': [37.769296, -122.389637]}}"
-MUNI Metro Stop - 3rd & Mission Rock,37.773145,-122.38972,1089,"{'typepoint': {'type': 'Point', 'coordinates': [37.773145, -122.38972]}}"
-MUNI Metro Stop - 3rd & Mariposa,37.763945,-122.389107,1318,"{'typepoint': {'type': 'Point', 'coordinates': [37.763945, -122.389107]}}"
-2nd & King MUNI Metro Station,37.779346,-122.389798,1411,"{'typepoint': {'type': 'Point', 'coordinates': [37.779346, -122.389798]}}"
-Civic Center MUNI Metro Station,37.779464,-122.413533,1495,"{'typepoint': {'type': 'Point', 'coordinates': [37.779464, -122.413533]}}"
+2nd & King Station,37.771251,-122.396992,411,"{'typepoint': {'type': 'Point', 'coordinates': [37.771251, -122.396992]}}"

@@ -3,6 +3,14 @@
 from pymongo import MongoClient
 import pandas as pd
 import re
+import os
+import glob
+import requests
+from dotenv import load_dotenv
+
+companies = pd.read_csv("../data/companies_cleaned.csv")
+load_dotenv()
+token_fsq = os.getenv("token_fsq")
 
 def Mongoconnect():
     client = MongoClient("localhost:27017")
@@ -34,14 +42,180 @@ def extract_coordinates():
     df_full = pd.concat([df_regex, df_offices], axis = 1)
     return df_full.head()
 
-def rename_columns(df, old_name, new_name):
+#ANALYSIS
+
+def call_FSQ(category):
     
-    """
-    This a functions that renames the name of any given columns. Requires three arguments.
-    Arguments: dataframe, old name of the column, new name of the column.
-    Input: the current column name
-    Output: the column renamed
-    """
+    categories= {"vegan" : 13377,
+                 "daycare" : 11026,
+                 "night club" : 10032,
+                 "airport" : 19031,
+                 "bus" : 19042,
+                 "metro" : 19046,
+                 "train" : 19047,
+                 "tram" : 19050,
+                 "basket" : 18006
+                }
+    lst=[]
     
-    df.rename(columns={f"{old_name}": f"{new_name}"}, inplace=True)
-    return df.sample(2)
+    for i in range(0,13):
+              
+        categ = categories[f"{category}"]
+        latitude = companies.iloc[i].loc['Latitude']
+        longitude = companies.iloc[i].loc['Longitude']
+
+    
+        url = f"https://api.foursquare.com/v3/places/search?ll={latitude}%2C{longitude}&categories={categ}&radius=2000&limit=10"
+
+        headers = {"accept": "application/json",
+                  "Authorization" : token_fsq}
+
+        response = requests.get(url, headers=headers).json()
+
+        for i in response["results"]:
+            name = i["name"]
+            distance = i["distance"]
+            address =  i["location"]["formatted_address"]
+            lat = i["geocodes"]["main"]["latitude"]
+            long = i["geocodes"]["main"]["longitude"]
+            type_ = {"typepoint": 
+                                {"type": "Point", 
+                                "coordinates": [lat, long]}}
+
+            lst.append({"name":name, "lat":lat, "lon":long, "distance":distance, "type":type_})
+
+    category = pd.DataFrame(lst)
+    category = gpd.GeoDataFrame(category, geometry=gpd.points_from_xy(category["lon"], category["lat"]))
+    
+    mapa = Map(Layer(category, "color:purple", popup_hover=[popup_element("name", "Restaurants near each location")]), basemap=basemaps.voyager)
+
+    return mapa
+
+def get_tables(row, category, radius):
+    
+    categories= {"vegan" : 13377,
+                 "daycare" : 11026,
+                 "night club" : 10032,
+                 "airport" : 19037,
+                 "bus" : 19042,
+                 "metro" : 19046,
+                 "train" : 19047,
+                 "tram" : 19050,
+                 "basket" : 18008
+                }
+    
+    queries= ["vegan restaurant", ""]
+
+    latitude = companies.iloc[row].loc['Latitude']
+    longitude = companies.iloc[row].loc['Longitude']
+    categ = categories[category]
+
+    url = f"https://api.foursquare.com/v3/places/search?ll={latitude}%2C{longitude}&categories={categ}&radius={radius}&limit=10"
+
+    headers = {"accept": "application/json",
+                          "Authorization" : token_fsq}
+
+    response = requests.get(url, headers=headers).json()
+
+    lst=[]
+    
+    for i in response["results"]:
+        name = i["name"]
+        distance = i["distance"]
+        address =  i["location"]["formatted_address"]
+        lat = i["geocodes"]["main"]["latitude"]
+        long = i["geocodes"]["main"]["longitude"]
+        type_ = {"typepoint": 
+                            {"type": "Point", 
+                            "coordinates": [lat, long]}}
+
+        lst.append({"name":name, "lat":lat, "lon":long, "distance":distance, "type":type_})
+
+    df = pd.DataFrame(lst)
+    df.to_csv(f"../data/{row}{category}.csv", index=False)
+        
+    pass
+
+def extract_categories(radius):
+    
+    categories= {"vegan" : 13377,
+                 "daycare" : 11026,
+                 "night club" : 10032,
+                 "airport" : 19037,
+                 "bus" : 19042,
+                 "metro" : 19046,
+                 "train" : 19047,
+                 "tram" : 19050,
+                 "basket" : 18008
+                    }
+    for i in range(len(companies)):
+        for j in categories.keys():
+            get_tables(i, j, radius)
+    pass
+
+def calculate_distances(category):
+    means = []
+    counts = []
+    path = os.getcwd()
+
+    for row in range(len(companies)):
+        csv_files = glob.glob(os.path.join("../data/", f"{row}{category}.csv"))
+        for f in csv_files:
+            if os.path.getsize(f) < 100:
+                print("These are the csv files without your request:")
+                display(f)
+
+            elif os.path.getsize(f) > 100:
+                df = pd.read_csv(f)
+
+                means.append(df["distance"].mean())
+                counts.append((df["distance"].count()))
+    return means, counts
+
+def get_starbucks(row, radius):
+    
+    
+    latitude = companies.iloc[row].loc['Latitude']
+    longitude = companies.iloc[row].loc['Longitude']
+ 
+    url = f"https://api.foursquare.com/v3/places/search?query=starbucks&ll={latitude}%2C{longitude}&radius={radius}&limit=10"
+
+    headers = {"accept": "application/json",
+                          "Authorization" : token_fsq}
+
+    response = requests.get(url, headers=headers).json()
+
+    lst=[]
+    
+    for i in response["results"]:
+        name = i["name"]
+        distance = i["distance"]
+        address =  i["location"]["formatted_address"]
+        lat = i["geocodes"]["main"]["latitude"]
+        long = i["geocodes"]["main"]["longitude"]
+        type_ = {"typepoint": 
+                            {"type": "Point", 
+                            "coordinates": [lat, long]}}
+
+        lst.append({"name":name, "lat":lat, "lon":long, "distance":distance, "type":type_})
+
+    df = pd.DataFrame(lst)
+    df.to_csv(f"../data/{row}starbucks.csv", index=False)
+        
+    pass
+
+def extract_starbucks(radius):
+    
+    categories= {"vegan" : 13377,
+                 "daycare" : 11026,
+                 "night club" : 10032,
+                 "airport" : 19037,
+                 "bus" : 19042,
+                 "metro" : 19046,
+                 "train" : 19047,
+                 "tram" : 19050,
+                 "basket" : 18008
+                    }
+    for i in range(len(companies)):
+        get_starbucks(i, radius)
+    pass

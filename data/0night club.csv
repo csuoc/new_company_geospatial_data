@@ -1,11 +1,5 @@
 name,lat,lon,distance,type
 The Great Northern,37.767481,-122.40659,541,"{'typepoint': {'type': 'Point', 'coordinates': [37.767481, -122.40659]}}"
-Oasis,37.771782,-122.414442,1140,"{'typepoint': {'type': 'Point', 'coordinates': [37.771782, -122.414442]}}"
-Jolene's Bar,37.765554,-122.413429,1159,"{'typepoint': {'type': 'Point', 'coordinates': [37.765554, -122.413429]}}"
-Cat Club,37.775367,-122.409851,905,"{'typepoint': {'type': 'Point', 'coordinates': [37.775367, -122.409851]}}"
-Public Works,37.768956,-122.419363,1574,"{'typepoint': {'type': 'Point', 'coordinates': [37.768956, -122.419363]}}"
-Club Six,37.781406,-122.40949,1395,"{'typepoint': {'type': 'Point', 'coordinates': [37.781406, -122.40949]}}"
-F8 1192 Folsom,37.775283,-122.409986,906,"{'typepoint': {'type': 'Point', 'coordinates': [37.775283, -122.409986]}}"
 Breakfast of Champions,37.767936,-122.406617,530,"{'typepoint': {'type': 'Point', 'coordinates': [37.767936, -122.406617]}}"
-The View,37.785207,-122.404625,1667,"{'typepoint': {'type': 'Point', 'coordinates': [37.785207, -122.404625]}}"
-DNA Lounge,37.771002,-122.412675,977,"{'typepoint': {'type': 'Point', 'coordinates': [37.771002, -122.412675]}}"
+Castle SF,37.767562,-122.40595,504,"{'typepoint': {'type': 'Point', 'coordinates': [37.767562, -122.40595]}}"
+Metronome Ballroom,37.764967,-122.401855,616,"{'typepoint': {'type': 'Point', 'coordinates': [37.764967, -122.401855]}}"

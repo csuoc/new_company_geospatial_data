@@ -1,11 +1,1 @@
-name,lat,lon,distance,type
-Pena Pachamama,37.799682,-122.410569,849,"{'typepoint': {'type': 'Point', 'coordinates': [37.799682, -122.410569]}}"
-Enjoy Vegetarian Restaurant,37.795717,-122.405173,919,"{'typepoint': {'type': 'Point', 'coordinates': [37.795717, -122.405173]}}"
-Sweetgreen,37.787182,-122.398432,1873,"{'typepoint': {'type': 'Point', 'coordinates': [37.787182, -122.398432]}}"
-Mixt Greens,37.79451,-122.401732,1065,"{'typepoint': {'type': 'Point', 'coordinates': [37.79451, -122.401732]}}"
-Sweetgreen,37.789634,-122.391765,1842,"{'typepoint': {'type': 'Point', 'coordinates': [37.789634, -122.391765]}}"
-The Thonglor,37.787265,-122.410194,1978,"{'typepoint': {'type': 'Point', 'coordinates': [37.787265, -122.410194]}}"
-Delica rf-1,37.795466,-122.393471,1217,"{'typepoint': {'type': 'Point', 'coordinates': [37.795466, -122.393471]}}"
-The Lucky Creation Vegetarian Restaurant,37.795174,-122.407148,1064,"{'typepoint': {'type': 'Point', 'coordinates': [37.795174, -122.407148]}}"
-Donut Farm,37.795336,-122.393463,1165,"{'typepoint': {'type': 'Point', 'coordinates': [37.795336, -122.393463]}}"
-The Plant Cafe Organic,37.79175,-122.402358,1328,"{'typepoint': {'type': 'Point', 'coordinates': [37.79175, -122.402358]}}"
+

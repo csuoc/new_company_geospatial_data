@@ -1,11 +1,2 @@
 name,lat,lon,distance,type
 Chelsea Piers Field House,40.747957,-74.008494,560,"{'typepoint': {'type': 'Point', 'coordinates': [40.747957, -74.008494]}}"
-Hartley House,40.761322,-73.991243,1578,"{'typepoint': {'type': 'Point', 'coordinates': [40.761322, -73.991243]}}"
-Apple Seeds,40.743072,-73.989695,1683,"{'typepoint': {'type': 'Point', 'coordinates': [40.743072, -73.989695]}}"
-San Jose Day Nursery,40.745005,-74.003965,836,"{'typepoint': {'type': 'Point', 'coordinates': [40.745005, -74.003965]}}"
-Bright Horizons Family Solutions,40.746874,-73.996746,950,"{'typepoint': {'type': 'Point', 'coordinates': [40.746874, -73.996746]}}"
-Sitters Studio,40.74969,-73.994367,1000,"{'typepoint': {'type': 'Point', 'coordinates': [40.74969, -73.994367]}}"
-The Kids Korner,40.745784,-73.997139,1040,"{'typepoint': {'type': 'Point', 'coordinates': [40.745784, -73.997139]}}"
-Los Ninos Services,40.754059,-73.992442,1110,"{'typepoint': {'type': 'Point', 'coordinates': [40.754059, -73.992442]}}"
-Preschool of America,40.758188,-73.991381,1344,"{'typepoint': {'type': 'Point', 'coordinates': [40.758188, -73.991381]}}"
-Pusteblume International Preschool,40.739122,-74.002073,1493,"{'typepoint': {'type': 'Point', 'coordinates': [40.739122, -74.002073]}}"

@@ -5,7 +5,4 @@ MUNI S Shuttle,37.784659,-122.407962,577,"{'typepoint': {'type': 'Point', 'coord
 Powell St BART Station,37.784084,-122.407784,592,"{'typepoint': {'type': 'Point', 'coordinates': [37.784084, -122.407784]}}"
 Cable Car Stop Stockton & California,37.792063,-122.407681,661,"{'typepoint': {'type': 'Point', 'coordinates': [37.792063, -122.407681]}}"
 Cable Car Stop Pine And Powell,37.79126,-122.408781,671,"{'typepoint': {'type': 'Point', 'coordinates': [37.79126, -122.408781]}}"
-California Trolley Line,37.792127,-122.409406,764,"{'typepoint': {'type': 'Point', 'coordinates': [37.792127, -122.409406]}}"
-Embarcadero MUNI Metro Station,37.793113,-122.396917,795,"{'typepoint': {'type': 'Point', 'coordinates': [37.793113, -122.396917]}}"
-Cable Car Stop Mason & California,37.791482,-122.410587,821,"{'typepoint': {'type': 'Point', 'coordinates': [37.791482, -122.410587]}}"
-MUNI F Line - Market & Drumm,37.793839,-122.396817,871,"{'typepoint': {'type': 'Point', 'coordinates': [37.793839, -122.396817]}}"
+MUNI / BART Station,37.789078,-122.401842,178,"{'typepoint': {'type': 'Point', 'coordinates': [37.789078, -122.401842]}}"

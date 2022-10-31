@@ -1,7 +1,2 @@
 name,lat,lon,distance,type
-West 4th Street Courts,40.731228,-74.000757,879,"{'typepoint': {'type': 'Point', 'coordinates': [40.731228, -74.000757]}}"
-Basketball Courts,40.725705,-74.011409,864,"{'typepoint': {'type': 'Point', 'coordinates': [40.725705, -74.011409]}}"
 Houston Street Park,40.728919,-74.002325,602,"{'typepoint': {'type': 'Point', 'coordinates': [40.728919, -74.002325]}}"
-Marvin's Court,40.713892,-74.009456,1234,"{'typepoint': {'type': 'Point', 'coordinates': [40.713892, -74.009456]}}"
-British Basketball Association US Headquarters,40.710418,-74.010278,1599,"{'typepoint': {'type': 'Point', 'coordinates': [40.710418, -74.010278]}}"
-Masaryk Basketball,40.717374,-73.980524,1920,"{'typepoint': {'type': 'Point', 'coordinates': [40.717374, -73.980524]}}"

@@ -1,11 +1,2 @@
 name,lat,lon,distance,type
-Rock Bar,37.744103,-122.422195,1377,"{'typepoint': {'type': 'Point', 'coordinates': [37.744103, -122.422195]}}"
-The Knockout,37.745058,-122.419958,1591,"{'typepoint': {'type': 'Point', 'coordinates': [37.745058, -122.419958]}}"
-Roccapulco,37.747172,-122.419132,1777,"{'typepoint': {'type': 'Point', 'coordinates': [37.747172, -122.419132]}}"
-Club Malibu,37.74228,-122.42189,1305,"{'typepoint': {'type': 'Point', 'coordinates': [37.74228, -122.42189]}}"
-Lucita's Niteclub,37.744787,-122.420086,1555,"{'typepoint': {'type': 'Point', 'coordinates': [37.744787, -122.420086]}}"
-El Tapatio Night Club,37.722229,-122.436878,1707,"{'typepoint': {'type': 'Point', 'coordinates': [37.722229, -122.436878]}}"
-26 Mix,37.748648,-122.418307,1933,"{'typepoint': {'type': 'Point', 'coordinates': [37.748648, -122.418307]}}"
 Cafe,37.733677,-122.433758,460,"{'typepoint': {'type': 'Point', 'coordinates': [37.733677, -122.433758]}}"
-Alamo Limousine,37.730294,-122.433558,828,"{'typepoint': {'type': 'Point', 'coordinates': [37.730294, -122.433558]}}"
-Noe Valley Music Series,37.752883,-122.429593,1772,"{'typepoint': {'type': 'Point', 'coordinates': [37.752883, -122.429593]}}"

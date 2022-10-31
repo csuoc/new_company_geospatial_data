@@ -1,0 +1,11 @@
+name,lat,lon,distance,type
+Starbucks,37.788371,-122.393555,688,"{'typepoint': {'type': 'Point', 'coordinates': [37.788371, -122.393555]}}"
+Starbucks,37.793818,-122.396678,645,"{'typepoint': {'type': 'Point', 'coordinates': [37.793818, -122.396678]}}"
+Starbucks,37.78447,-122.404008,575,"{'typepoint': {'type': 'Point', 'coordinates': [37.78447, -122.404008]}}"
+Starbucks,37.789293,-122.406729,479,"{'typepoint': {'type': 'Point', 'coordinates': [37.789293, -122.406729]}}"
+Starbucks,37.789098,-122.408438,622,"{'typepoint': {'type': 'Point', 'coordinates': [37.789098, -122.408438]}}"
+Starbucks,37.794601,-122.402669,599,"{'typepoint': {'type': 'Point', 'coordinates': [37.794601, -122.402669]}}"
+Starbucks,37.787664,-122.401113,158,"{'typepoint': {'type': 'Point', 'coordinates': [37.787664, -122.401113]}}"
+Starbucks,37.786145,-122.405612,517,"{'typepoint': {'type': 'Point', 'coordinates': [37.786145, -122.405612]}}"
+Starbucks,37.790652,-122.403869,286,"{'typepoint': {'type': 'Point', 'coordinates': [37.790652, -122.403869]}}"
+Starbucks,37.790448,-122.405722,406,"{'typepoint': {'type': 'Point', 'coordinates': [37.790448, -122.405722]}}"

@@ -1,11 +1,3 @@
 name,lat,lon,distance,type
+10/12 Muni,37.797864,-122.404439,689,"{'typepoint': {'type': 'Point', 'coordinates': [37.797864, -122.404439]}}"
 Muni Bus Stop,37.798096,-122.406102,728,"{'typepoint': {'type': 'Point', 'coordinates': [37.798096, -122.406102]}}"
-"Muni 8x, 8Bx, 39 Bus Stop",37.802224,-122.411077,786,"{'typepoint': {'type': 'Point', 'coordinates': [37.802224, -122.411077]}}"
-Muni,37.79926,-122.409253,788,"{'typepoint': {'type': 'Point', 'coordinates': [37.79926, -122.409253]}}"
-MUNI Bus Stop - Columbus & Union,37.800373,-122.410538,806,"{'typepoint': {'type': 'Point', 'coordinates': [37.800373, -122.410538]}}"
-Muni Stop,37.805128,-122.411535,819,"{'typepoint': {'type': 'Point', 'coordinates': [37.805128, -122.411535]}}"
-Muni,37.808126,-122.41035,828,"{'typepoint': {'type': 'Point', 'coordinates': [37.808126, -122.41035]}}"
-Amtrak Fisherman's Wharf/Pier 39 Bus Stop,37.808587,-122.409875,835,"{'typepoint': {'type': 'Point', 'coordinates': [37.808587, -122.409875]}}"
-Muni Stop,37.794579,-122.404675,1047,"{'typepoint': {'type': 'Point', 'coordinates': [37.794579, -122.404675]}}"
-Muni Stop Clay & Drumm,37.794299,-122.399783,1099,"{'typepoint': {'type': 'Point', 'coordinates': [37.794299, -122.399783]}}"
-MUNI Bus Stop - Sansome & Sacramento,37.793756,-122.401759,1114,"{'typepoint': {'type': 'Point', 'coordinates': [37.793756, -122.401759]}}"

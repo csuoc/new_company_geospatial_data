@@ -1,5 +1,1 @@
-name,lat,lon,distance,type
-Berry Basketball Courts,37.772031,-122.397898,932,"{'typepoint': {'type': 'Point', 'coordinates': [37.772031, -122.397898]}}"
-Arterra Mission Bay,37.771896,-122.397532,940,"{'typepoint': {'type': 'Point', 'coordinates': [37.771896, -122.397532]}}"
-NBA Nation,37.759168,-122.412335,987,"{'typepoint': {'type': 'Point', 'coordinates': [37.759168, -122.412335]}}"
-Soma Rec Center,37.778838,-122.406328,1550,"{'typepoint': {'type': 'Point', 'coordinates': [37.778838, -122.406328]}}"
+

@@ -1,11 +1,3 @@
 name,lat,lon,distance,type
 Glen Park MUNI Stop,37.733092,-122.433724,511,"{'typepoint': {'type': 'Point', 'coordinates': [37.733092, -122.433724]}}"
 Muni J Light Rail Stop,37.732414,-122.433612,605,"{'typepoint': {'type': 'Point', 'coordinates': [37.732414, -122.433612]}}"
-MUNI J Stop,37.742599,-122.426907,946,"{'typepoint': {'type': 'Point', 'coordinates': [37.742599, -122.426907]}}"
-MUNI Metro Stop - Church & 30th,37.7428,-122.426417,965,"{'typepoint': {'type': 'Point', 'coordinates': [37.7428, -122.426417]}}"
-MUNI Metro Stop - San Jose & Randall,37.739656,-122.423938,1010,"{'typepoint': {'type': 'Point', 'coordinates': [37.739656, -122.423938]}}"
-J Muni Inbound,37.729217,-122.439942,1013,"{'typepoint': {'type': 'Point', 'coordinates': [37.729217, -122.439942]}}"
-Muni J Stop,37.743586,-122.426822,1015,"{'typepoint': {'type': 'Point', 'coordinates': [37.743586, -122.426822]}}"
-MUNI Metro Stop - 30th & Dolores,37.74221,-122.424304,1120,"{'typepoint': {'type': 'Point', 'coordinates': [37.74221, -122.424304]}}"
-MUNI Outbound J,37.725616,-122.441734,1444,"{'typepoint': {'type': 'Point', 'coordinates': [37.725616, -122.441734]}}"
-Muni Metro Stop 14003 - J Church Inbound,37.749127,-122.427006,1480,"{'typepoint': {'type': 'Point', 'coordinates': [37.749127, -122.427006]}}"

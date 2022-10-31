@@ -1,0 +1,5 @@
+name,lat,lon,distance,type
+Starbucks,37.765899,-122.403343,540,"{'typepoint': {'type': 'Point', 'coordinates': [37.765899, -122.403343]}}"
+Starbucks,37.765871,-122.40327,1593,"{'typepoint': {'type': 'Point', 'coordinates': [37.765871, -122.40327]}}"
+Starbucks,37.770241,-122.403384,169,"{'typepoint': {'type': 'Point', 'coordinates': [37.770241, -122.403384]}}"
+Starbucks,37.770241,-122.403384,169,"{'typepoint': {'type': 'Point', 'coordinates': [37.770241, -122.403384]}}"

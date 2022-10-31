@@ -1,11 +1,2 @@
 name,lat,lon,distance,type
-Gracias Madre,37.761621,-122.419145,1371,"{'typepoint': {'type': 'Point', 'coordinates': [37.761621, -122.419145]}}"
-Udupi Palace,37.756812,-122.420939,1749,"{'typepoint': {'type': 'Point', 'coordinates': [37.756812, -122.420939]}}"
-Ananda Fuara,37.77789,-122.416164,1753,"{'typepoint': {'type': 'Point', 'coordinates': [37.77789, -122.416164]}}"
-Besharam,37.754174,-122.389537,1762,"{'typepoint': {'type': 'Point', 'coordinates': [37.754174, -122.389537]}}"
-Beloved Cafe,37.752329,-122.419313,1950,"{'typepoint': {'type': 'Point', 'coordinates': [37.752329, -122.419313]}}"
-The Flying Falafel,37.78124,-122.411217,1895,"{'typepoint': {'type': 'Point', 'coordinates': [37.78124, -122.411217]}}"
-Mixt,37.758243,-122.421024,1663,"{'typepoint': {'type': 'Point', 'coordinates': [37.758243, -122.421024]}}"
-Boogaloos,37.755614,-122.420797,1823,"{'typepoint': {'type': 'Point', 'coordinates': [37.755614, -122.420797]}}"
-Cha-Ya,37.760867,-122.421752,1597,"{'typepoint': {'type': 'Point', 'coordinates': [37.760867, -122.421752]}}"
-Mission Curry House,37.758086,-122.419223,1546,"{'typepoint': {'type': 'Point', 'coordinates': [37.758086, -122.419223]}}"
+Next Level Burger Potrero Hill,37.764652,-122.402801,137,"{'typepoint': {'type': 'Point', 'coordinates': [37.764652, -122.402801]}}"

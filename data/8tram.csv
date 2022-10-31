@@ -1,6 +1,1 @@
-name,lat,lon,distance,type
-Bay & Taylor Cable Car Turnaround,37.805132,-122.415336,1128,"{'typepoint': {'type': 'Point', 'coordinates': [37.805132, -122.415336]}}"
-Mason Street Cable Car,37.795281,-122.411743,1234,"{'typepoint': {'type': 'Point', 'coordinates': [37.795281, -122.411743]}}"
-California Cable Car Turnaround-East,37.793883,-122.396246,1243,"{'typepoint': {'type': 'Point', 'coordinates': [37.793883, -122.396246]}}"
-Salesforce Transit Center Gondola,37.790105,-122.396525,1605,"{'typepoint': {'type': 'Point', 'coordinates': [37.790105, -122.396525]}}"
-San Francisco Cable Car,37.806942,-122.420987,1663,"{'typepoint': {'type': 'Point', 'coordinates': [37.806942, -122.420987]}}"
+

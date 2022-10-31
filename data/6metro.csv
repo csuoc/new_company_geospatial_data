@@ -1,11 +1,1 @@
-name,lat,lon,distance,type
-MTA Subway - 28th St,40.747227,-73.993658,1176,"{'typepoint': {'type': 'Point', 'coordinates': [40.747227, -73.993658]}}"
-MTA - 23rd Street Station,40.74409,-73.995937,1239,"{'typepoint': {'type': 'Point', 'coordinates': [40.74409, -73.995937]}}"
-MTA Subway - 18th St,40.74108,-73.997522,1419,"{'typepoint': {'type': 'Point', 'coordinates': [40.74108, -73.997522]}}"
-MTA - 14th St Subway Station,40.743052,-74.000394,1422,"{'typepoint': {'type': 'Point', 'coordinates': [40.743052, -74.000394]}}"
-MTA Subway - 23rd St,40.742925,-73.99314,1484,"{'typepoint': {'type': 'Point', 'coordinates': [40.742925, -73.99314]}}"
-33rd Street Station,40.748873,-73.988657,1503,"{'typepoint': {'type': 'Point', 'coordinates': [40.748873, -73.988657]}}"
-MTA Subway - 42nd St/Times Square/Port Authority Bus Terminal,40.756235,-73.98781,1555,"{'typepoint': {'type': 'Point', 'coordinates': [40.756235, -73.98781]}}"
-MTA - 14 St Subway Station - Union Square,40.738601,-73.999389,1608,"{'typepoint': {'type': 'Point', 'coordinates': [40.738601, -73.999389]}}"
-MTA - 14th St Subway Station,40.738483,-73.995803,1826,"{'typepoint': {'type': 'Point', 'coordinates': [40.738483, -73.995803]}}"
-MTA Subway - 23rd St,40.741419,-73.988976,1847,"{'typepoint': {'type': 'Point', 'coordinates': [40.741419, -73.988976]}}"
+

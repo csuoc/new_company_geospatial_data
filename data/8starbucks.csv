@@ -1,0 +1,2 @@
+name,lat,lon,distance,type
+Starbucks,37.80278,-122.402936,120,"{'typepoint': {'type': 'Point', 'coordinates': [37.80278, -122.402936]}}"
