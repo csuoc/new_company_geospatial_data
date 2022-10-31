@@ -1,0 +1,108 @@
+name,lat,lon,distance,type,Unnamed: 0,Unnamed: 1
+MUNI Bus Stop - Kearny & Geary,37.787755,-122.403771,88,"{'typepoint': {'type': 'Point', 'coordinates': [37.787755, -122.403771]}}",,
+MUNI Bus Stop - Market & 3rd,37.788265,-122.403084,88,"{'typepoint': {'type': 'Point', 'coordinates': [37.788265, -122.403084]}}",,
+"30, 45, 8X Bus Stop",37.788248,-122.403728,93,"{'typepoint': {'type': 'Point', 'coordinates': [37.788248, -122.403728]}}",,
+Muni Stop - 3rd & Market - Inbound,37.788726,-122.40261,117,"{'typepoint': {'type': 'Point', 'coordinates': [37.788726, -122.40261]}}",,
+MUNI Bus Stop - Market & New Montgomery,37.789165,-122.40242,156,"{'typepoint': {'type': 'Point', 'coordinates': [37.789165, -122.40242]}}",,
+Montgomery Bus Shelter,37.789214,-122.402208,175,"{'typepoint': {'type': 'Point', 'coordinates': [37.789214, -122.402208]}}",,
+MUNI Bus Stop - Mission & 2nd,37.787876,-122.400314,216,"{'typepoint': {'type': 'Point', 'coordinates': [37.787876, -122.400314]}}",,
+Muni,37.786286,-122.404616,233,"{'typepoint': {'type': 'Point', 'coordinates': [37.786286, -122.404616]}}",,
+MUNI O'Farrell St & Grant Ave,37.786584,-122.405423,271,"{'typepoint': {'type': 'Point', 'coordinates': [37.786584, -122.405423]}}",,
+SF MUNI - Nx Judah Express,37.790081,-122.401112,301,"{'typepoint': {'type': 'Point', 'coordinates': [37.790081, -122.401112]}}",,
+California Child Care Resources & Referral Network,37.787285,-122.400087,280,"{'typepoint': {'type': 'Point', 'coordinates': [37.787285, -122.400087]}}",,
+Bright Horizons,37.792276,-122.403607,502,"{'typepoint': {'type': 'Point', 'coordinates': [37.792276, -122.403607]}}",,
+Wu Yee Children's Services,37.792221,-122.406042,598,"{'typepoint': {'type': 'Point', 'coordinates': [37.792221, -122.406042]}}",,
+Yerba Buena Gardens Child Development Center,37.78246,-122.400807,603,"{'typepoint': {'type': 'Point', 'coordinates': [37.78246, -122.400807]}}",,
+South Of Market Childc,37.782439,-122.401092,608,"{'typepoint': {'type': 'Point', 'coordinates': [37.782439, -122.401092]}}",,
+Marin Day Schools,37.789639,-122.39492,704,"{'typepoint': {'type': 'Point', 'coordinates': [37.789639, -122.39492]}}",,
+True Sunshine Preschool Center,37.792767,-122.407866,742,"{'typepoint': {'type': 'Point', 'coordinates': [37.792767, -122.407866]}}",,
+American Child Care Service,37.792942,-122.404119,600,"{'typepoint': {'type': 'Point', 'coordinates': [37.792942, -122.404119]}}",,
+Sylvia s Family Child Care,37.783312,-122.397774,650,"{'typepoint': {'type': 'Point', 'coordinates': [37.783312, -122.397774]}}",,
+Modern Education Family Childcare,37.781349,-122.401243,712,"{'typepoint': {'type': 'Point', 'coordinates': [37.781349, -122.401243]}}",,
+Montgomery St BART Station,37.788824,-122.402185,153,"{'typepoint': {'type': 'Point', 'coordinates': [37.788824, -122.402185]}}",,
+Powell MUNI Metro Station,37.784512,-122.407738,580,"{'typepoint': {'type': 'Point', 'coordinates': [37.784512, -122.407738]}}",,
+The View,37.785207,-122.404625,291,"{'typepoint': {'type': 'Point', 'coordinates': [37.785207, -122.404625]}}",,
+Southside Spirit House,37.787118,-122.397568,452,"{'typepoint': {'type': 'Point', 'coordinates': [37.787118, -122.397568]}}",,
+City Club of San Francisco,37.791783,-122.401069,506,"{'typepoint': {'type': 'Point', 'coordinates': [37.791783, -122.401069]}}",,
+Love + Propaganda,37.788681,-122.406622,386,"{'typepoint': {'type': 'Point', 'coordinates': [37.788681, -122.406622]}}",,
+Temple Nightclub,37.787904,-122.397112,486,"{'typepoint': {'type': 'Point', 'coordinates': [37.787904, -122.397112]}}",,
+Alibi,37.786428,-122.40018,256,"{'typepoint': {'type': 'Point', 'coordinates': [37.786428, -122.40018]}}",,
+Infusion Lounge,37.785574,-122.408374,563,"{'typepoint': {'type': 'Point', 'coordinates': [37.785574, -122.408374]}}",,
+Johnny Foley's Dueling Piano Bar,37.78618,-122.408751,550,"{'typepoint': {'type': 'Point', 'coordinates': [37.78618, -122.408751]}}",,
+Rrazz Room,37.785796,-122.409319,611,"{'typepoint': {'type': 'Point', 'coordinates': [37.785796, -122.409319]}}",,
+Tefani & So. Dogcare,37.787193,-122.39915,320,"{'typepoint': {'type': 'Point', 'coordinates': [37.787193, -122.39915]}}",,
+Starbucks,37.78447,-122.404008,357,"{'typepoint': {'type': 'Point', 'coordinates': [37.78447, -122.404008]}}",,
+Starbucks,37.789293,-122.406729,404,"{'typepoint': {'type': 'Point', 'coordinates': [37.789293, -122.406729]}}",,
+Starbucks,37.789098,-122.408438,527,"{'typepoint': {'type': 'Point', 'coordinates': [37.789098, -122.408438]}}",,
+Starbucks,37.790652,-122.403869,369,"{'typepoint': {'type': 'Point', 'coordinates': [37.790652, -122.403869]}}",,
+Starbucks,37.790448,-122.405722,406,"{'typepoint': {'type': 'Point', 'coordinates': [37.790448, -122.405722]}}",,
+Starbucks,37.793025,-122.39978,656,"{'typepoint': {'type': 'Point', 'coordinates': [37.793025, -122.39978]}}",,
+Starbucks,37.79291,-122.40429,509,"{'typepoint': {'type': 'Point', 'coordinates': [37.79291, -122.40429]}}",,
+Starbucks,37.787194,-122.410692,697,"{'typepoint': {'type': 'Point', 'coordinates': [37.787194, -122.410692]}}",,
+Starbucks,37.784144,-122.407429,576,"{'typepoint': {'type': 'Point', 'coordinates': [37.784144, -122.407429]}}",,
+Starbucks,37.786145,-122.405612,306,"{'typepoint': {'type': 'Point', 'coordinates': [37.786145, -122.405612]}}",,
+MUNI Stop,37.787348,-122.404392,135,"{'typepoint': {'type': 'Point', 'coordinates': [37.787348, -122.404392]}}",,
+Montgomery MUNI Metro Station,37.788769,-122.402039,145,"{'typepoint': {'type': 'Point', 'coordinates': [37.788769, -122.402039]}}",,
+MUNI S Shuttle,37.784659,-122.407962,577,"{'typepoint': {'type': 'Point', 'coordinates': [37.784659, -122.407962]}}",,
+Powell St BART Station,37.784084,-122.407784,592,"{'typepoint': {'type': 'Point', 'coordinates': [37.784084, -122.407784]}}",,
+Cable Car Stop Stockton & California,37.792063,-122.407681,661,"{'typepoint': {'type': 'Point', 'coordinates': [37.792063, -122.407681]}}",,
+Cable Car Stop Pine And Powell,37.79126,-122.408781,671,"{'typepoint': {'type': 'Point', 'coordinates': [37.79126, -122.408781]}}",,
+MUNI / BART Station,37.789078,-122.401842,178,"{'typepoint': {'type': 'Point', 'coordinates': [37.789078, -122.401842]}}",,
+Powell Street Cable Car Turnaround,37.784783,-122.40761,547,"{'typepoint': {'type': 'Point', 'coordinates': [37.784783, -122.40761]}}",,
+Salesforce Transit Center Gondola,37.790105,-122.396525,599,"{'typepoint': {'type': 'Point', 'coordinates': [37.790105, -122.396525]}}",,
+MUNI Bus Stop - Kearny & Geary,37.787755,-122.403771,88,"{'typepoint': {'type': 'Point', 'coordinates': [37.787755, -122.403771]}}",first,0.0
+MUNI Bus Stop - Market & 3rd,37.788265,-122.403084,88,"{'typepoint': {'type': 'Point', 'coordinates': [37.788265, -122.403084]}}",first,1.0
+"30, 45, 8X Bus Stop",37.788248,-122.403728,93,"{'typepoint': {'type': 'Point', 'coordinates': [37.788248, -122.403728]}}",first,2.0
+Muni Stop - 3rd & Market - Inbound,37.788726,-122.40261,117,"{'typepoint': {'type': 'Point', 'coordinates': [37.788726, -122.40261]}}",first,3.0
+MUNI Bus Stop - Market & New Montgomery,37.789165,-122.40242,156,"{'typepoint': {'type': 'Point', 'coordinates': [37.789165, -122.40242]}}",first,4.0
+Montgomery Bus Shelter,37.789214,-122.402208,175,"{'typepoint': {'type': 'Point', 'coordinates': [37.789214, -122.402208]}}",first,5.0
+MUNI Bus Stop - Mission & 2nd,37.787876,-122.400314,216,"{'typepoint': {'type': 'Point', 'coordinates': [37.787876, -122.400314]}}",first,6.0
+Muni,37.786286,-122.404616,233,"{'typepoint': {'type': 'Point', 'coordinates': [37.786286, -122.404616]}}",first,7.0
+MUNI O'Farrell St & Grant Ave,37.786584,-122.405423,271,"{'typepoint': {'type': 'Point', 'coordinates': [37.786584, -122.405423]}}",first,8.0
+SF MUNI - Nx Judah Express,37.790081,-122.401112,301,"{'typepoint': {'type': 'Point', 'coordinates': [37.790081, -122.401112]}}",first,9.0
+California Child Care Resources & Referral Network,37.787285,-122.400087,280,"{'typepoint': {'type': 'Point', 'coordinates': [37.787285, -122.400087]}}",second,0.0
+Bright Horizons,37.792276,-122.403607,502,"{'typepoint': {'type': 'Point', 'coordinates': [37.792276, -122.403607]}}",second,1.0
+Wu Yee Children's Services,37.792221,-122.406042,598,"{'typepoint': {'type': 'Point', 'coordinates': [37.792221, -122.406042]}}",second,2.0
+Yerba Buena Gardens Child Development Center,37.78246,-122.400807,603,"{'typepoint': {'type': 'Point', 'coordinates': [37.78246, -122.400807]}}",second,3.0
+South Of Market Childc,37.782439,-122.401092,608,"{'typepoint': {'type': 'Point', 'coordinates': [37.782439, -122.401092]}}",second,4.0
+Marin Day Schools,37.789639,-122.39492,704,"{'typepoint': {'type': 'Point', 'coordinates': [37.789639, -122.39492]}}",second,5.0
+True Sunshine Preschool Center,37.792767,-122.407866,742,"{'typepoint': {'type': 'Point', 'coordinates': [37.792767, -122.407866]}}",second,6.0
+American Child Care Service,37.792942,-122.404119,600,"{'typepoint': {'type': 'Point', 'coordinates': [37.792942, -122.404119]}}",second,7.0
+Sylvia s Family Child Care,37.783312,-122.397774,650,"{'typepoint': {'type': 'Point', 'coordinates': [37.783312, -122.397774]}}",second,8.0
+Modern Education Family Childcare,37.781349,-122.401243,712,"{'typepoint': {'type': 'Point', 'coordinates': [37.781349, -122.401243]}}",second,9.0
+Montgomery St BART Station,37.788824,-122.402185,153,"{'typepoint': {'type': 'Point', 'coordinates': [37.788824, -122.402185]}}",third,0.0
+Powell MUNI Metro Station,37.784512,-122.407738,580,"{'typepoint': {'type': 'Point', 'coordinates': [37.784512, -122.407738]}}",third,1.0
+The View,37.785207,-122.404625,291,"{'typepoint': {'type': 'Point', 'coordinates': [37.785207, -122.404625]}}",fourth,0.0
+Southside Spirit House,37.787118,-122.397568,452,"{'typepoint': {'type': 'Point', 'coordinates': [37.787118, -122.397568]}}",fourth,1.0
+City Club of San Francisco,37.791783,-122.401069,506,"{'typepoint': {'type': 'Point', 'coordinates': [37.791783, -122.401069]}}",fourth,2.0
+Love + Propaganda,37.788681,-122.406622,386,"{'typepoint': {'type': 'Point', 'coordinates': [37.788681, -122.406622]}}",fourth,3.0
+Temple Nightclub,37.787904,-122.397112,486,"{'typepoint': {'type': 'Point', 'coordinates': [37.787904, -122.397112]}}",fourth,4.0
+Alibi,37.786428,-122.40018,256,"{'typepoint': {'type': 'Point', 'coordinates': [37.786428, -122.40018]}}",fourth,5.0
+Infusion Lounge,37.785574,-122.408374,563,"{'typepoint': {'type': 'Point', 'coordinates': [37.785574, -122.408374]}}",fourth,6.0
+Johnny Foley's Dueling Piano Bar,37.78618,-122.408751,550,"{'typepoint': {'type': 'Point', 'coordinates': [37.78618, -122.408751]}}",fourth,7.0
+Rrazz Room,37.785796,-122.409319,611,"{'typepoint': {'type': 'Point', 'coordinates': [37.785796, -122.409319]}}",fourth,8.0
+Tefani & So. Dogcare,37.787193,-122.39915,320,"{'typepoint': {'type': 'Point', 'coordinates': [37.787193, -122.39915]}}",fifth,0.0
+Starbucks,37.78447,-122.404008,357,"{'typepoint': {'type': 'Point', 'coordinates': [37.78447, -122.404008]}}",seveneigth,0.0
+Starbucks,37.789293,-122.406729,404,"{'typepoint': {'type': 'Point', 'coordinates': [37.789293, -122.406729]}}",seveneigth,1.0
+Starbucks,37.789098,-122.408438,527,"{'typepoint': {'type': 'Point', 'coordinates': [37.789098, -122.408438]}}",seveneigth,2.0
+Starbucks,37.790652,-122.403869,369,"{'typepoint': {'type': 'Point', 'coordinates': [37.790652, -122.403869]}}",seveneigth,3.0
+Starbucks,37.790448,-122.405722,406,"{'typepoint': {'type': 'Point', 'coordinates': [37.790448, -122.405722]}}",seveneigth,4.0
+Starbucks,37.793025,-122.39978,656,"{'typepoint': {'type': 'Point', 'coordinates': [37.793025, -122.39978]}}",seveneigth,5.0
+Starbucks,37.79291,-122.40429,509,"{'typepoint': {'type': 'Point', 'coordinates': [37.79291, -122.40429]}}",seveneigth,6.0
+Starbucks,37.787194,-122.410692,697,"{'typepoint': {'type': 'Point', 'coordinates': [37.787194, -122.410692]}}",seveneigth,7.0
+Starbucks,37.784144,-122.407429,576,"{'typepoint': {'type': 'Point', 'coordinates': [37.784144, -122.407429]}}",seveneigth,8.0
+Starbucks,37.786145,-122.405612,306,"{'typepoint': {'type': 'Point', 'coordinates': [37.786145, -122.405612]}}",seveneigth,9.0
+MUNI Stop,37.787348,-122.404392,135,"{'typepoint': {'type': 'Point', 'coordinates': [37.787348, -122.404392]}}",ninth,0.0
+Montgomery MUNI Metro Station,37.788769,-122.402039,145,"{'typepoint': {'type': 'Point', 'coordinates': [37.788769, -122.402039]}}",ninth,1.0
+MUNI S Shuttle,37.784659,-122.407962,577,"{'typepoint': {'type': 'Point', 'coordinates': [37.784659, -122.407962]}}",ninth,2.0
+Powell St BART Station,37.784084,-122.407784,592,"{'typepoint': {'type': 'Point', 'coordinates': [37.784084, -122.407784]}}",ninth,3.0
+Cable Car Stop Stockton & California,37.792063,-122.407681,661,"{'typepoint': {'type': 'Point', 'coordinates': [37.792063, -122.407681]}}",ninth,4.0
+Cable Car Stop Pine And Powell,37.79126,-122.408781,671,"{'typepoint': {'type': 'Point', 'coordinates': [37.79126, -122.408781]}}",ninth,5.0
+MUNI / BART Station,37.789078,-122.401842,178,"{'typepoint': {'type': 'Point', 'coordinates': [37.789078, -122.401842]}}",ninth,6.0
+Powell Street Cable Car Turnaround,37.784783,-122.40761,547,"{'typepoint': {'type': 'Point', 'coordinates': [37.784783, -122.40761]}}",tenth,0.0
+Salesforce Transit Center Gondola,37.790105,-122.396525,599,"{'typepoint': {'type': 'Point', 'coordinates': [37.790105, -122.396525]}}",tenth,1.0
+Sweetgreen,37.787182,-122.398432,364,"{'typepoint': {'type': 'Point', 'coordinates': [37.787182, -122.398432]}}",eleventh,0.0
+The Thonglor,37.787265,-122.410194,675,"{'typepoint': {'type': 'Point', 'coordinates': [37.787265, -122.410194]}}",eleventh,1.0
+Mixt,37.785581,-122.404432,242,"{'typepoint': {'type': 'Point', 'coordinates': [37.785581, -122.404432]}}",eleventh,2.0
+The Plant Cafe Organic,37.79175,-122.402358,471,"{'typepoint': {'type': 'Point', 'coordinates': [37.79175, -122.402358]}}",eleventh,3.0
+Vida Cantina SF,37.79146,-122.403704,427,"{'typepoint': {'type': 'Point', 'coordinates': [37.79146, -122.403704]}}",eleventh,4.0

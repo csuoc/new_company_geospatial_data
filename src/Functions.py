@@ -217,16 +217,15 @@ def concat_df():
     lst=[]
     
     path = os.getcwd()
-    csv_files = glob.glob(os.path.join("../data/", "1*.csv"))
+    csv_files = glob.glob(os.path.join("../data/", "7*.csv"))
     
     for f in csv_files:
         if os.path.getsize(f) > 100:
             df = pd.read_csv(f)
             lst.append(df)
             big_df = pd.concat(lst, axis = 0, keys=["first", "second", "third", "fourth", "fifth", "seven"
-                                                "eigth", "ninth"])
-    big_df.to_excel("../data/bigdf.xlsx")
-    big_df
+                                                "eigth", "ninth", "tenth", "eleventh"])
+    big_df.to_csv("../data/7United.csv", index=False)
 
     pass
 
