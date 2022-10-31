@@ -1,1 +1,11 @@
-
+name,lat,lon,distance,type
+Apple Tree Children's Center,37.771984,-122.410437,937,"{'typepoint': {'type': 'Point', 'coordinates': [37.771984, -122.410437]}}"
+Las Americas Nursery School-Age Childrens Center,37.757005,-122.412853,1186,"{'typepoint': {'type': 'Point', 'coordinates': [37.757005, -122.412853]}}"
+Love & Learn Nursery School,37.773376,-122.414966,1290,"{'typepoint': {'type': 'Point', 'coordinates': [37.773376, -122.414966]}}"
+Bark Avenue,37.775605,-122.394309,1393,"{'typepoint': {'type': 'Point', 'coordinates': [37.775605, -122.394309]}}"
+Modern Education Family Childcare,37.773502,-122.391892,1452,"{'typepoint': {'type': 'Point', 'coordinates': [37.773502, -122.391892]}}"
+South Of Market Childc,37.782439,-122.401092,1932,"{'typepoint': {'type': 'Point', 'coordinates': [37.782439, -122.401092]}}"
+Holy Family Day Home,37.76492,-122.426005,1935,"{'typepoint': {'type': 'Point', 'coordinates': [37.76492, -122.426005]}}"
+Yerba Buena Gardens Child Development Center,37.78246,-122.400807,1941,"{'typepoint': {'type': 'Point', 'coordinates': [37.78246, -122.400807]}}"
+Baby Tree Family Childcare,37.770307,-122.400807,646,"{'typepoint': {'type': 'Point', 'coordinates': [37.770307, -122.400807]}}"
+Prefund,37.760511,-122.396002,888,"{'typepoint': {'type': 'Point', 'coordinates': [37.760511, -122.396002]}}"

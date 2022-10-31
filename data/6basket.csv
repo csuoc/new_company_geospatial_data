@@ -1,0 +1,6 @@
+name,lat,lon,distance,type
+Jordan Terminal 23,40.749365,-73.990423,1318,"{'typepoint': {'type': 'Point', 'coordinates': [40.749365, -73.990423]}}"
+Madison Club,40.750471,-73.993437,1041,"{'typepoint': {'type': 'Point', 'coordinates': [40.750471, -73.993437]}}"
+ABC Hoops NYC Midtown West Arena,40.763658,-73.990679,1759,"{'typepoint': {'type': 'Point', 'coordinates': [40.763658, -73.990679]}}"
+Basketball Gym At The Dylan,40.746532,-73.985464,1816,"{'typepoint': {'type': 'Point', 'coordinates': [40.746532, -73.985464]}}"
+ABC Hoops,40.763603,-73.990721,1765,"{'typepoint': {'type': 'Point', 'coordinates': [40.763603, -73.990721]}}"

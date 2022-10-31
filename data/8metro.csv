@@ -1,1 +1,3 @@
-
+name,lat,lon,distance,type
+Blinq On Embarcadero Bart Station,37.794213,-122.395763,1221,"{'typepoint': {'type': 'Point', 'coordinates': [37.794213, -122.395763]}}"
+Montgomery St BART Station,37.788824,-122.402185,1656,"{'typepoint': {'type': 'Point', 'coordinates': [37.788824, -122.402185]}}"

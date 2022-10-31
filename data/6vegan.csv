@@ -1,4 +1,11 @@
 name,lat,lon,distance,type
 Sweetgreen,40.752639,-74.001035,377,"{'typepoint': {'type': 'Point', 'coordinates': [40.752639, -74.001035]}}"
-Jack's Stir Brew Coffee,40.753503,-74.000982,338,"{'typepoint': {'type': 'Point', 'coordinates': [40.753503, -74.000982]}}"
-Cafe Blossom,40.748575,-74.005635,422,"{'typepoint': {'type': 'Point', 'coordinates': [40.748575, -74.005635]}}"
+Dil-e Punjab Deli,40.744892,-74.00217,875,"{'typepoint': {'type': 'Point', 'coordinates': [40.744892, -74.00217]}}"
+Sweetgreen,40.739288,-74.005879,1466,"{'typepoint': {'type': 'Point', 'coordinates': [40.739288, -74.005879]}}"
+Beyond Sushi Herald Square,40.752383,-73.988576,1441,"{'typepoint': {'type': 'Point', 'coordinates': [40.752383, -73.988576]}}"
+Sweetgreen,40.744935,-73.988633,1655,"{'typepoint': {'type': 'Point', 'coordinates': [40.744935, -73.988633]}}"
+Sweetgreen,40.752533,-73.987009,1551,"{'typepoint': {'type': 'Point', 'coordinates': [40.752533, -73.987009]}}"
+Juice Press,40.739165,-74.002468,1497,"{'typepoint': {'type': 'Point', 'coordinates': [40.739165, -74.002468]}}"
+Sweetgreen,40.738172,-73.991337,1997,"{'typepoint': {'type': 'Point', 'coordinates': [40.738172, -73.991337]}}"
+Planta Queen,40.74441,-73.988319,1700,"{'typepoint': {'type': 'Point', 'coordinates': [40.74441, -73.988319]}}"
+Hangawi,40.746764,-73.984862,1852,"{'typepoint': {'type': 'Point', 'coordinates': [40.746764, -73.984862]}}"

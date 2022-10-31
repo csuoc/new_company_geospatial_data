@@ -1,0 +1,3 @@
+name,lat,lon,distance,type
+Douglass Basketball Court,37.751913,-122.43885,1590,"{'typepoint': {'type': 'Point', 'coordinates': [37.751913, -122.43885]}}"
+Bernal Heights Recreation Center,37.738385,-122.416197,1693,"{'typepoint': {'type': 'Point', 'coordinates': [37.738385, -122.416197]}}"

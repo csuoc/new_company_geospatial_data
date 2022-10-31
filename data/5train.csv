@@ -1,4 +1,11 @@
 name,lat,lon,distance,type
 Montgomery MUNI Metro Station,37.788769,-122.402039,86,"{'typepoint': {'type': 'Point', 'coordinates': [37.788769, -122.402039]}}"
 MUNI Stop,37.787348,-122.404392,338,"{'typepoint': {'type': 'Point', 'coordinates': [37.787348, -122.404392]}}"
-MUNI / BART Station,37.789078,-122.401842,50,"{'typepoint': {'type': 'Point', 'coordinates': [37.789078, -122.401842]}}"
+Embarcadero MUNI Metro Station,37.793113,-122.396917,574,"{'typepoint': {'type': 'Point', 'coordinates': [37.793113, -122.396917]}}"
+Cable Car Stop Stockton & California,37.792063,-122.407681,633,"{'typepoint': {'type': 'Point', 'coordinates': [37.792063, -122.407681]}}"
+MUNI F Line - Market & Drumm,37.793839,-122.396817,649,"{'typepoint': {'type': 'Point', 'coordinates': [37.793839, -122.396817]}}"
+Cable Car Stop Pine And Powell,37.79126,-122.408781,697,"{'typepoint': {'type': 'Point', 'coordinates': [37.79126, -122.408781]}}"
+California Trolley Line,37.792127,-122.409406,764,"{'typepoint': {'type': 'Point', 'coordinates': [37.792127, -122.409406]}}"
+MUNI S Shuttle,37.784659,-122.407962,791,"{'typepoint': {'type': 'Point', 'coordinates': [37.784659, -122.407962]}}"
+Powell St BART Station,37.784084,-122.407784,810,"{'typepoint': {'type': 'Point', 'coordinates': [37.784084, -122.407784]}}"
+Central Chinatown Light Rail Subway Station 中国城地铁站,37.794762,-122.408271,847,"{'typepoint': {'type': 'Point', 'coordinates': [37.794762, -122.408271]}}"

@@ -1,2 +1,6 @@
 name,lat,lon,distance,type
 Sweetgreen,37.391009,-122.081118,457,"{'typepoint': {'type': 'Point', 'coordinates': [37.391009, -122.081118]}}"
+Garden Fresh Vegetarian Restaurant,37.387946,-122.088961,1176,"{'typepoint': {'type': 'Point', 'coordinates': [37.387946, -122.088961]}}"
+Bowl of Heaven,37.37963,-122.074333,1677,"{'typepoint': {'type': 'Point', 'coordinates': [37.37963, -122.074333]}}"
+Garden Fresh,37.387898,-122.089173,1189,"{'typepoint': {'type': 'Point', 'coordinates': [37.387898, -122.089173]}}"
+Indian Vegan Basudeva Cuisine,37.400857,-122.057757,1967,"{'typepoint': {'type': 'Point', 'coordinates': [37.400857, -122.057757]}}"

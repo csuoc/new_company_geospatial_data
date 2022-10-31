@@ -1,1 +1,2 @@
-
+name,lat,lon,distance,type
+MUNI F Line CAR No. 1814,37.77257,-122.422086,1775,"{'typepoint': {'type': 'Point', 'coordinates': [37.77257, -122.422086]}}"

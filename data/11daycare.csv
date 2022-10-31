@@ -1,3 +1,11 @@
 name,lat,lon,distance,type
+Kiddie Academy of Mountain View,37.396983,-122.061628,1508,"{'typepoint': {'type': 'Point', 'coordinates': [37.396983, -122.061628]}}"
+Petra'a Day Care,37.382725,-122.091747,1743,"{'typepoint': {'type': 'Point', 'coordinates': [37.382725, -122.091747]}}"
 Soiree Sitters,37.393059,-122.077725,170,"{'typepoint': {'type': 'Point', 'coordinates': [37.393059, -122.077725]}}"
 Young Giggles,37.397375,-122.076104,388,"{'typepoint': {'type': 'Point', 'coordinates': [37.397375, -122.076104]}}"
+Sherry's Childcare,37.393485,-122.088553,891,"{'typepoint': {'type': 'Point', 'coordinates': [37.393485, -122.088553]}}"
+Arco Iris Family Daycare,37.385033,-122.070841,1248,"{'typepoint': {'type': 'Point', 'coordinates': [37.385033, -122.070841]}}"
+Rosa's Family Daycare,37.406302,-122.078246,1316,"{'typepoint': {'type': 'Point', 'coordinates': [37.406302, -122.078246]}}"
+Thinn Thinn's Daycare,37.40574,-122.073348,1334,"{'typepoint': {'type': 'Point', 'coordinates': [37.40574, -122.073348]}}"
+The Rising Stars Family Daycare,37.404745,-122.06628,1573,"{'typepoint': {'type': 'Point', 'coordinates': [37.404745, -122.06628]}}"
+St Paul Lutheran Child Development Center,37.388796,-122.095304,1608,"{'typepoint': {'type': 'Point', 'coordinates': [37.388796, -122.095304]}}"

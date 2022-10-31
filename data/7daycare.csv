@@ -1,2 +1,11 @@
 name,lat,lon,distance,type
 California Child Care Resources & Referral Network,37.787285,-122.400087,280,"{'typepoint': {'type': 'Point', 'coordinates': [37.787285, -122.400087]}}"
+Bright Horizons,37.792276,-122.403607,502,"{'typepoint': {'type': 'Point', 'coordinates': [37.792276, -122.403607]}}"
+Wu Yee Children's Services,37.792221,-122.406042,598,"{'typepoint': {'type': 'Point', 'coordinates': [37.792221, -122.406042]}}"
+Yerba Buena Gardens Child Development Center,37.78246,-122.400807,603,"{'typepoint': {'type': 'Point', 'coordinates': [37.78246, -122.400807]}}"
+South Of Market Childc,37.782439,-122.401092,608,"{'typepoint': {'type': 'Point', 'coordinates': [37.782439, -122.401092]}}"
+Marin Day Schools,37.789639,-122.39492,704,"{'typepoint': {'type': 'Point', 'coordinates': [37.789639, -122.39492]}}"
+True Sunshine Preschool Center,37.792767,-122.407866,742,"{'typepoint': {'type': 'Point', 'coordinates': [37.792767, -122.407866]}}"
+Bright Horizons,37.790236,-122.392231,963,"{'typepoint': {'type': 'Point', 'coordinates': [37.790236, -122.392231]}}"
+Boys and Girls Club Tenderloin Clubhouse,37.782256,-122.412479,1050,"{'typepoint': {'type': 'Point', 'coordinates': [37.782256, -122.412479]}}"
+Wu Yee Children's Services,37.797086,-122.410774,1254,"{'typepoint': {'type': 'Point', 'coordinates': [37.797086, -122.410774]}}"

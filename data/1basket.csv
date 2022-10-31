@@ -1,0 +1,9 @@
+name,lat,lon,distance,type
+West 4th Street Courts,40.731228,-74.000757,722,"{'typepoint': {'type': 'Point', 'coordinates': [40.731228, -74.000757]}}"
+Stuyvesant Town Basketball Courts,40.732345,-73.979407,1695,"{'typepoint': {'type': 'Point', 'coordinates': [40.732345, -73.979407]}}"
+Basketball Courts,40.725705,-74.011409,1191,"{'typepoint': {'type': 'Point', 'coordinates': [40.725705, -74.011409]}}"
+Houston Street Park,40.728919,-74.002325,563,"{'typepoint': {'type': 'Point', 'coordinates': [40.728919, -74.002325]}}"
+Marvin's Court,40.713892,-74.009456,1631,"{'typepoint': {'type': 'Point', 'coordinates': [40.713892, -74.009456]}}"
+Playground 9- Basketball Court/Sprinklers,40.732173,-73.979793,1681,"{'typepoint': {'type': 'Point', 'coordinates': [40.732173, -73.979793]}}"
+Masaryk Basketball,40.717374,-73.980524,1693,"{'typepoint': {'type': 'Point', 'coordinates': [40.717374, -73.980524]}}"
+British Basketball Association US Headquarters,40.710418,-74.010278,1977,"{'typepoint': {'type': 'Point', 'coordinates': [40.710418, -74.010278]}}"

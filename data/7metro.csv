@@ -1,2 +1,4 @@
 name,lat,lon,distance,type
 Montgomery St BART Station,37.788824,-122.402185,153,"{'typepoint': {'type': 'Point', 'coordinates': [37.788824, -122.402185]}}"
+Powell MUNI Metro Station,37.784512,-122.407738,580,"{'typepoint': {'type': 'Point', 'coordinates': [37.784512, -122.407738]}}"
+Blinq On Embarcadero Bart Station,37.794213,-122.395763,953,"{'typepoint': {'type': 'Point', 'coordinates': [37.794213, -122.395763]}}"

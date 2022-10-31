@@ -1,5 +1,11 @@
 name,lat,lon,distance,type
+MTA Subway - WTC Cortlandt St,40.711836,-74.011688,1944,"{'typepoint': {'type': 'Point', 'coordinates': [40.711836, -74.011688]}}"
 MTA - Broadway-Lafayette Subway Station,40.725474,-73.99612,95,"{'typepoint': {'type': 'Point', 'coordinates': [40.725474, -73.99612]}}"
 MTA Subway - Prince St,40.724199,-73.997749,140,"{'typepoint': {'type': 'Point', 'coordinates': [40.724199, -73.997749]}}"
 MTA Subway - Bleecker St,40.725885,-73.994871,230,"{'typepoint': {'type': 'Point', 'coordinates': [40.725885, -73.994871]}}"
 MTA - Spring St Subway Station,40.722471,-73.997214,353,"{'typepoint': {'type': 'Point', 'coordinates': [40.722471, -73.997214]}}"
+9th Street Metro station,40.729175,-74.00085,504,"{'typepoint': {'type': 'Point', 'coordinates': [40.729175, -74.00085]}}"
+MTA Subway - Spring St,40.725555,-74.003965,553,"{'typepoint': {'type': 'Point', 'coordinates': [40.725555, -74.003965]}}"
+MTA Subway - Bowery,40.720425,-73.993346,661,"{'typepoint': {'type': 'Point', 'coordinates': [40.720425, -73.993346]}}"
+Metro-w Houston Street Parking,40.728807,-74.00446,717,"{'typepoint': {'type': 'Point', 'coordinates': [40.728807, -74.00446]}}"
+MTA Subway - Houston St,40.7284,-74.005535,737,"{'typepoint': {'type': 'Point', 'coordinates': [40.7284, -74.005535]}}"

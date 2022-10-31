@@ -1,4 +1,6 @@
 name,lat,lon,distance,type
 Mountain View Caltrain Station,37.393806,-122.076479,195,"{'typepoint': {'type': 'Point', 'coordinates': [37.393806, -122.076479]}}"
 Mountain View VTA Light Rail Station,37.395054,-122.076906,143,"{'typepoint': {'type': 'Point', 'coordinates': [37.395054, -122.076906]}}"
+VTA Track Crossing,37.388989,-122.061972,1581,"{'typepoint': {'type': 'Point', 'coordinates': [37.388989, -122.061972]}}"
 Caltrain Baby Bullet,37.394418,-122.075726,247,"{'typepoint': {'type': 'Point', 'coordinates': [37.394418, -122.075726]}}"
+Bayshore- Nasa VTA Light Rail Station,37.407296,-122.076297,1440,"{'typepoint': {'type': 'Point', 'coordinates': [37.407296, -122.076297]}}"

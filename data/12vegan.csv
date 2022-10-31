@@ -1,1 +1,11 @@
-
+name,lat,lon,distance,type
+Sweetgreen,37.787182,-122.398432,1089,"{'typepoint': {'type': 'Point', 'coordinates': [37.787182, -122.398432]}}"
+The Flying Falafel,37.78124,-122.411217,1406,"{'typepoint': {'type': 'Point', 'coordinates': [37.78124, -122.411217]}}"
+Ananda Fuara,37.77789,-122.416164,1806,"{'typepoint': {'type': 'Point', 'coordinates': [37.77789, -122.416164]}}"
+Sweetgreen,37.789634,-122.391765,1357,"{'typepoint': {'type': 'Point', 'coordinates': [37.789634, -122.391765]}}"
+The Thonglor,37.787265,-122.410194,1662,"{'typepoint': {'type': 'Point', 'coordinates': [37.787265, -122.410194]}}"
+Mixt Greens,37.79451,-122.401732,1908,"{'typepoint': {'type': 'Point', 'coordinates': [37.79451, -122.401732]}}"
+Golden Era Vegan Restaurant,37.781359,-122.416942,1891,"{'typepoint': {'type': 'Point', 'coordinates': [37.781359, -122.416942]}}"
+Mixt,37.785581,-122.404432,1154,"{'typepoint': {'type': 'Point', 'coordinates': [37.785581, -122.404432]}}"
+Delica rf-1,37.795466,-122.393471,1993,"{'typepoint': {'type': 'Point', 'coordinates': [37.795466, -122.393471]}}"
+The Plant Cafe Organic,37.79175,-122.402358,1681,"{'typepoint': {'type': 'Point', 'coordinates': [37.79175, -122.402358]}}"

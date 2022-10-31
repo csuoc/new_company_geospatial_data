@@ -1,2 +1,11 @@
 name,lat,lon,distance,type
+La Lafayette Street And Bleecker,40.726007,-73.994352,673,"{'typepoint': {'type': 'Point', 'coordinates': [40.726007, -73.994352]}}"
+MTA - Christopher St/Sheridan Square Station,40.739739,-73.999215,1141,"{'typepoint': {'type': 'Point', 'coordinates': [40.739739, -73.999215]}}"
+9th Street PATH Station,40.734027,-73.99899,1215,"{'typepoint': {'type': 'Point', 'coordinates': [40.734027, -73.99899]}}"
 Canal Street 6 Train,40.721887,-74.005059,327,"{'typepoint': {'type': 'Point', 'coordinates': [40.721887, -74.005059]}}"
+MTA - Canal Street Subway Station,40.718234,-74.000549,580,"{'typepoint': {'type': 'Point', 'coordinates': [40.718234, -74.000549]}}"
+Bleecker Street / Broadway – Lafayette Street,40.72583,-73.994912,633,"{'typepoint': {'type': 'Point', 'coordinates': [40.72583, -73.994912]}}"
+Houston Street,40.728465,-74.005145,634,"{'typepoint': {'type': 'Point', 'coordinates': [40.728465, -74.005145]}}"
+Spring Street 6 Station,40.726062,-73.99431,690,"{'typepoint': {'type': 'Point', 'coordinates': [40.726062, -73.99431]}}"
+Taste Of The Terminal New York,40.714354,-74.006376,1077,"{'typepoint': {'type': 'Point', 'coordinates': [40.714354, -74.006376]}}"
+Amtrak-NYP,40.728474,-73.988904,1217,"{'typepoint': {'type': 'Point', 'coordinates': [40.728474, -73.988904]}}"

@@ -1,2 +1,11 @@
 name,lat,lon,distance,type
 Pier 23 Cafe,37.803372,-122.400748,151,"{'typepoint': {'type': 'Point', 'coordinates': [37.803372, -122.400748]}}"
+The Saloon,37.798643,-122.407066,723,"{'typepoint': {'type': 'Point', 'coordinates': [37.798643, -122.407066]}}"
+Monroe,37.79795,-122.405017,680,"{'typepoint': {'type': 'Point', 'coordinates': [37.79795, -122.405017]}}"
+Southside Spirit House,37.787118,-122.397568,1895,"{'typepoint': {'type': 'Point', 'coordinates': [37.787118, -122.397568]}}"
+The Wreck Room,37.791186,-122.417021,1924,"{'typepoint': {'type': 'Point', 'coordinates': [37.791186, -122.417021]}}"
+City Club of San Francisco,37.791783,-122.401069,1313,"{'typepoint': {'type': 'Point', 'coordinates': [37.791783, -122.401069]}}"
+Condor Club,37.798052,-122.406673,761,"{'typepoint': {'type': 'Point', 'coordinates': [37.798052, -122.406673]}}"
+Hungry I,37.798036,-122.406456,740,"{'typepoint': {'type': 'Point', 'coordinates': [37.798036, -122.406456]}}"
+Roaring 20's,37.798025,-122.406599,746,"{'typepoint': {'type': 'Point', 'coordinates': [37.798025, -122.406599]}}"
+Hue SF,37.797934,-122.404801,699,"{'typepoint': {'type': 'Point', 'coordinates': [37.797934, -122.404801]}}"

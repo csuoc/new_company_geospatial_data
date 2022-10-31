@@ -1,1 +1,2 @@
-
+name,lat,lon,distance,type
+Powell MUNI Metro Station,37.784512,-122.407738,1643,"{'typepoint': {'type': 'Point', 'coordinates': [37.784512, -122.407738]}}"

@@ -1,4 +1,11 @@
 name,lat,lon,distance,type
 Bark Avenue,37.775605,-122.394309,274,"{'typepoint': {'type': 'Point', 'coordinates': [37.775605, -122.394309]}}"
-Sheleen Family Childcare,37.776754,-122.392943,271,"{'typepoint': {'type': 'Point', 'coordinates': [37.776754, -122.392943]}}"
-Señorita's Preschool & Childcare,37.773487,-122.396683,476,"{'typepoint': {'type': 'Point', 'coordinates': [37.773487, -122.396683]}}"
+Modern Education Family Childcare,37.773502,-122.391892,602,"{'typepoint': {'type': 'Point', 'coordinates': [37.773502, -122.391892]}}"
+Yerba Buena Gardens Child Development Center,37.78246,-122.400807,686,"{'typepoint': {'type': 'Point', 'coordinates': [37.78246, -122.400807]}}"
+South Of Market Childc,37.782439,-122.401092,687,"{'typepoint': {'type': 'Point', 'coordinates': [37.782439, -122.401092]}}"
+California Child Care Resources & Referral Network,37.787285,-122.400087,1086,"{'typepoint': {'type': 'Point', 'coordinates': [37.787285, -122.400087]}}"
+Marin Day Schools,37.789639,-122.39492,1319,"{'typepoint': {'type': 'Point', 'coordinates': [37.789639, -122.39492]}}"
+Apple Tree Children's Center,37.771984,-122.410437,1438,"{'typepoint': {'type': 'Point', 'coordinates': [37.771984, -122.410437]}}"
+Bright Horizons,37.790236,-122.392231,1479,"{'typepoint': {'type': 'Point', 'coordinates': [37.790236, -122.392231]}}"
+Boys and Girls Club Tenderloin Clubhouse,37.782256,-122.412479,1564,"{'typepoint': {'type': 'Point', 'coordinates': [37.782256, -122.412479]}}"
+Bright Horizons,37.792276,-122.403607,1743,"{'typepoint': {'type': 'Point', 'coordinates': [37.792276, -122.403607]}}"

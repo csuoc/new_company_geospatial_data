@@ -1,10 +1,1 @@
-name,lat,lon,distance,type
-Cathay Pacific Airways,37.788529,-122.40776,425,"{'typepoint': {'type': 'Point', 'coordinates': [37.788529, -122.40776]}}"
-Philippine Airlines,37.789206,-122.407871,473,"{'typepoint': {'type': 'Point', 'coordinates': [37.789206, -122.407871]}}"
-Vietnam Airlines,37.788661,-122.403466,128,"{'typepoint': {'type': 'Point', 'coordinates': [37.788661, -122.403466]}}"
-Lufthansa German Airlines,37.788758,-122.40346,138,"{'typepoint': {'type': 'Point', 'coordinates': [37.788758, -122.40346]}}"
-Asiana Airlines,37.789643,-122.400441,301,"{'typepoint': {'type': 'Point', 'coordinates': [37.789643, -122.400441]}}"
-Singapore Airlines,37.790747,-122.403087,345,"{'typepoint': {'type': 'Point', 'coordinates': [37.790747, -122.403087]}}"
-Turkish Airlines,37.790531,-122.40078,364,"{'typepoint': {'type': 'Point', 'coordinates': [37.790531, -122.40078]}}"
-HIS International Tours S F,37.785168,-122.407275,482,"{'typepoint': {'type': 'Point', 'coordinates': [37.785168, -122.407275]}}"
-Pacific Airfinance,37.792043,-122.402805,488,"{'typepoint': {'type': 'Point', 'coordinates': [37.792043, -122.402805]}}"
+

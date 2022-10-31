@@ -1,2 +1,11 @@
 name,lat,lon,distance,type
-Sylvia s Family Child Care,37.783312,-122.397774,326,"{'typepoint': {'type': 'Point', 'coordinates': [37.783312, -122.397774]}}"
+Yerba Buena Gardens Child Development Center,37.78246,-122.400807,600,"{'typepoint': {'type': 'Point', 'coordinates': [37.78246, -122.400807]}}"
+South Of Market Childc,37.782439,-122.401092,611,"{'typepoint': {'type': 'Point', 'coordinates': [37.782439, -122.401092]}}"
+California Child Care Resources & Referral Network,37.787285,-122.400087,659,"{'typepoint': {'type': 'Point', 'coordinates': [37.787285, -122.400087]}}"
+Marin Day Schools,37.789639,-122.39492,732,"{'typepoint': {'type': 'Point', 'coordinates': [37.789639, -122.39492]}}"
+Bark Avenue,37.775605,-122.394309,860,"{'typepoint': {'type': 'Point', 'coordinates': [37.775605, -122.394309]}}"
+Bright Horizons,37.790236,-122.392231,870,"{'typepoint': {'type': 'Point', 'coordinates': [37.790236, -122.392231]}}"
+Modern Education Family Childcare,37.773502,-122.391892,1085,"{'typepoint': {'type': 'Point', 'coordinates': [37.773502, -122.391892]}}"
+Bright Horizons,37.792276,-122.403607,1316,"{'typepoint': {'type': 'Point', 'coordinates': [37.792276, -122.403607]}}"
+Wu Yee Children's Services,37.792221,-122.406042,1477,"{'typepoint': {'type': 'Point', 'coordinates': [37.792221, -122.406042]}}"
+Boys and Girls Club Tenderloin Clubhouse,37.782256,-122.412479,1632,"{'typepoint': {'type': 'Point', 'coordinates': [37.782256, -122.412479]}}"

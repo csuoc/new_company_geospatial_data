@@ -1,2 +1,11 @@
 name,lat,lon,distance,type
 MUNI Bus Stop - Bosworth & Diamond,37.733438,-122.434317,481,"{'typepoint': {'type': 'Point', 'coordinates': [37.733438, -122.434317]}}"
+MUNI Bus Stop - Diamond Heights & Goldmine,37.743592,-122.437856,705,"{'typepoint': {'type': 'Point', 'coordinates': [37.743592, -122.437856]}}"
+MUNI Bus Stop - Monterey & Baden,37.731668,-122.440042,776,"{'typepoint': {'type': 'Point', 'coordinates': [37.731668, -122.440042]}}"
+MUNI Bus Stop - Duncan & Diamond Heights,37.745181,-122.440408,949,"{'typepoint': {'type': 'Point', 'coordinates': [37.745181, -122.440408]}}"
+14L Muni Bus Stop Richland,37.737504,-122.424313,987,"{'typepoint': {'type': 'Point', 'coordinates': [37.737504, -122.424313]}}"
+MUNI Bus Stop - Mission & Silver,37.728652,-122.431373,1056,"{'typepoint': {'type': 'Point', 'coordinates': [37.728652, -122.431373]}}"
+Muni Stop,37.728836,-122.430821,1061,"{'typepoint': {'type': 'Point', 'coordinates': [37.728836, -122.430821]}}"
+52 inbound bus stop - 5157 Diamond Heights,37.746898,-122.439915,1113,"{'typepoint': {'type': 'Point', 'coordinates': [37.746898, -122.439915]}}"
+23/36 Muni,37.731746,-122.445751,1125,"{'typepoint': {'type': 'Point', 'coordinates': [37.731746, -122.445751]}}"
+MUNI Bus Stop #16012 - Portola & Clipper,37.747264,-122.444522,1320,"{'typepoint': {'type': 'Point', 'coordinates': [37.747264, -122.444522]}}"

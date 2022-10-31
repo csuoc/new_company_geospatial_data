@@ -1,2 +1,11 @@
 name,lat,lon,distance,type
-SF Brew Fest N' Vegan Eats Invitational,37.785634,-122.393036,301,"{'typepoint': {'type': 'Point', 'coordinates': [37.785634, -122.393036]}}"
+Sweetgreen,37.787182,-122.398432,616,"{'typepoint': {'type': 'Point', 'coordinates': [37.787182, -122.398432]}}"
+Sweetgreen,37.789634,-122.391765,746,"{'typepoint': {'type': 'Point', 'coordinates': [37.789634, -122.391765]}}"
+The Flying Falafel,37.78124,-122.411217,1511,"{'typepoint': {'type': 'Point', 'coordinates': [37.78124, -122.411217]}}"
+The Thonglor,37.787265,-122.410194,1509,"{'typepoint': {'type': 'Point', 'coordinates': [37.787265, -122.410194]}}"
+Enjoy Vegetarian Restaurant,37.795717,-122.405173,1719,"{'typepoint': {'type': 'Point', 'coordinates': [37.795717, -122.405173]}}"
+Mixt Greens,37.79451,-122.401732,1410,"{'typepoint': {'type': 'Point', 'coordinates': [37.79451, -122.401732]}}"
+Mixt,37.785581,-122.404432,932,"{'typepoint': {'type': 'Point', 'coordinates': [37.785581, -122.404432]}}"
+Delica rf-1,37.795466,-122.393471,1391,"{'typepoint': {'type': 'Point', 'coordinates': [37.795466, -122.393471]}}"
+The Plant Cafe Organic,37.79175,-122.402358,1230,"{'typepoint': {'type': 'Point', 'coordinates': [37.79175, -122.402358]}}"
+Donut Farm,37.795336,-122.393463,1427,"{'typepoint': {'type': 'Point', 'coordinates': [37.795336, -122.393463]}}"
