@@ -101,7 +101,8 @@ def get_tables(row, category, radius):
                  "metro" : 19046,
                  "train" : 19047,
                  "tram" : 19050,
-                 "basket" : 18008
+                 "basket" : 18008,
+                 "pets" : 11134
                 }
     
     queries= ["vegan restaurant", ""]
@@ -146,7 +147,8 @@ def extract_categories(radius):
                  "metro" : 19046,
                  "train" : 19047,
                  "tram" : 19050,
-                 "basket" : 18008
+                 "basket" : 18008,
+                 "pets" : 11134
                     }
     for i in range(len(companies)):
         for j in categories.keys():
@@ -206,16 +208,34 @@ def get_starbucks(row, radius):
 
 def extract_starbucks(radius):
     
-    categories= {"vegan" : 13377,
-                 "daycare" : 11026,
-                 "night club" : 10032,
-                 "airport" : 19037,
-                 "bus" : 19042,
-                 "metro" : 19046,
-                 "train" : 19047,
-                 "tram" : 19050,
-                 "basket" : 18008
-                    }
     for i in range(len(companies)):
         get_starbucks(i, radius)
     pass
+
+def concat_df():
+
+    lst=[]
+    
+    path = os.getcwd()
+    csv_files = glob.glob(os.path.join("../data/", "1*.csv"))
+    
+    for f in csv_files:
+        if os.path.getsize(f) > 100:
+            df = pd.read_csv(f)
+            lst.append(df)
+            big_df = pd.concat(lst, axis = 0, keys=["first", "second", "third", "fourth", "fifth", "seven"
+                                                "eigth", "ninth"])
+    big_df.to_excel("../data/bigdf.xlsx")
+    big_df
+
+    pass
+
+def roundval(df, column_name, n):
+    """
+    This is a function that rounds any float to a given n value. Requires three arguments.
+    Arguments: dataframe, name of the column where you want to rewrite the values, value of the round
+    Input: a float with multiple decimals
+    Output: a float with n decimals
+    """
+    df[f"{column_name}"] = [round(i,n) for i in df[f"{column_name}"]]
+    return df.sample(2)

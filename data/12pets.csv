@@ -1,0 +1,4 @@
+name,lat,lon,distance,type
+Healthy Spot,37.772602,-122.391695,676,"{'typepoint': {'type': 'Point', 'coordinates': [37.772602, -122.391695]}}"
+Furry Tales,37.776754,-122.392943,279,"{'typepoint': {'type': 'Point', 'coordinates': [37.776754, -122.392943]}}"
+Doggie Day Spaw,37.778665,-122.40259,606,"{'typepoint': {'type': 'Point', 'coordinates': [37.778665, -122.40259]}}"

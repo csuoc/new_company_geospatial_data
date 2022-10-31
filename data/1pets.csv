@@ -1,0 +1,6 @@
+name,lat,lon,distance,type
+Happy Paws,40.725445,-73.995202,188,"{'typepoint': {'type': 'Point', 'coordinates': [40.725445, -73.995202]}}"
+Pup Culture,40.7238,-74.004131,578,"{'typepoint': {'type': 'Point', 'coordinates': [40.7238, -74.004131]}}"
+Pupculture,40.723682,-74.004023,591,"{'typepoint': {'type': 'Point', 'coordinates': [40.723682, -74.004023]}}"
+Two Dogs & A Goat Inc.,40.720155,-73.99556,606,"{'typepoint': {'type': 'Point', 'coordinates': [40.720155, -73.99556]}}"
+Throw Me A Bone,40.727421,-74.005846,745,"{'typepoint': {'type': 'Point', 'coordinates': [40.727421, -74.005846]}}"
