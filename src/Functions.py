@@ -1,46 +1,16 @@
 # Import box
 
-from pymongo import MongoClient
 import pandas as pd
-import re
 import os
 import glob
 import requests
 from dotenv import load_dotenv
+from folium import Choropleth, Circle, Marker, Icon, Map
+from folium.plugins import HeatMap, MarkerCluster
 
 companies = pd.read_csv("../data/companies_cleaned.csv")
 load_dotenv()
 token_fsq = os.getenv("token_fsq")
-
-def Mongoconnect():
-    client = MongoClient("localhost:27017")
-    db = client["Ironhack"]
-    coll = db.get_collection("companies")
-    return coll
-
-def apply_regex():
-    """
-    Filtering by all industries that contain the strings "Gam/gam"  in their description, overview or tag categories.
-    Filtering by all industries that are millionaire or billonaire.
-    It returns a filtered pandas dataframe.
-    """
-
-    filt = {"$and": [{"description":{"$regex": ".*gam.*|.*Gam.*"}, "overview":{"$regex": ".*gam.*|.*Gam.*"}, 
-                    "total_money_raised":{"$regex": "\$.*B|\$.*M"}, "tag_list":{"$regex": ".*gam.*|.*Gam.*"}}]}
-
-    proj = {"description":1, "name":1, "_id":0, "description":1, "overview":1, "tag_list":1, "total_money_raised":1, "offices":1, "number_of_employees":1}
-
-    df_regex = pd.DataFrame(coll.find(filt,proj))
-
-    return df_regex.head()
-
-def extract_coordinates():
-
-    df_regex = df_regex.explode(f"offices")
-    df_offices = df_regex["offices"].apply(pd.Series)
-    df_offices.drop(columns="description", inplace=True)
-    df_full = pd.concat([df_regex, df_offices], axis = 1)
-    return df_full.head()
 
 #ANALYSIS
 
@@ -238,3 +208,381 @@ def roundval(df, column_name, n):
     """
     df[f"{column_name}"] = [round(i,n) for i in df[f"{column_name}"]]
     return df.sample(2)
+
+def plot_Serious_Business_Exent():
+
+    # Read CSV from SB
+    df_bus5 = pd.read_csv("../data/5bus.csv")
+    df_daycare5 = pd.read_csv("../data/5daycare.csv")
+    df_metro5 = pd.read_csv("../data/5metro.csv")
+    df_night_club5 = pd.read_csv("../data/5night club.csv")
+    df_pets5 = pd.read_csv("../data/5pets.csv")
+    df_starbucks5 = pd.read_csv("../data/5starbucks.csv")
+    df_train5 = pd.read_csv("../data/5train.csv")
+    df_tram5 = pd.read_csv("../data/5tram.csv")
+    df_vegan5 = pd.read_csv("../data/5vegan.csv")
+
+    #Extract coordinates in a separate dataframe from SB
+    df_bus5 = df_bus5.explode("type")
+    df_daycare5 = df_daycare5.explode("type")
+    df_metro5 = df_metro5.explode("type")
+    df_night_club5 = df_night_club5.explode("type")
+    df_pets5 = df_pets5.explode("type")
+    df_starbucks5 = df_starbucks5.explode("type")
+    df_train5 = df_train5.explode("type")
+    df_tram5 = df_tram5.explode("type")
+    df_vegan5 = df_vegan5.explode("type")
+
+    # Read CSV from Exent
+    df_bus7 = pd.read_csv("../data/7bus.csv")
+    df_daycare7 = pd.read_csv("../data/7daycare.csv")
+    df_metro7 = pd.read_csv("../data/7metro.csv")
+    df_night_club7 = pd.read_csv("../data/7night club.csv")
+    df_pets7 = pd.read_csv("../data/7pets.csv")
+    df_starbucks7 = pd.read_csv("../data/7starbucks.csv")
+    df_train7 = pd.read_csv("../data/7train.csv")
+    df_tram7 = pd.read_csv("../data/7tram.csv")
+    df_vegan7 = pd.read_csv("../data/7vegan.csv")
+
+    #Extract coordinates in a separate dataframe from Exent
+    df_bus7 = df_bus7.explode("type")
+    df_daycare7 = df_daycare7.explode("type")
+    df_metro7 = df_metro7.explode("type")
+    df_night_club7 = df_night_club7.explode("type")
+    df_pets7 = df_pets7.explode("type")
+    df_starbucks7 = df_starbucks7.explode("type")
+    df_train7 = df_train7.explode("type")
+    df_tram7 = df_tram7.explode("type")
+    df_vegan7 = df_vegan7.explode("type")
+
+    # Map creation
+
+    sfmap = Map(location = [37.789321, -122.401362], zoom_start = 15)
+
+    #Iteration and markers for Serious Business
+
+    for index, row in df_bus5.iterrows():
+        #1. MARKER without icon
+        sb = {"location": [37.789321, -122.401362], "tooltip": "Serious Business"}
+        #2. ICON
+        icon = Icon (
+        color="blue",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-briefcase",
+        icon_color = "black"
+        )
+        #3. MARKER
+        sb_marker = Marker(**sb, icon = icon, radius = 2)
+        #4. ADD
+        sb_marker.add_to(sfmap)
+
+    for index, row in df_bus5.iterrows():
+        #1. MARKER without icon
+        bus = {"location": [row["lat"], row["lon"]], "tooltip": "Bus station"}
+        #2. ICON
+        icon = Icon (
+        color="lightred",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-solid fa-bus",
+        icon_color = "black"
+        )
+        #3. MARKER
+        bus_marker = Marker(**bus, icon = icon, radius = 2)
+        #4. ADD
+        bus_marker.add_to(sfmap)
+
+    for index, row in df_daycare5.iterrows():
+        #1. MARKER without icon
+        daycare = {"location": [row["lat"], row["lon"]], "tooltip": "Daycare center"}
+        #2. ICON
+        icon = Icon (
+        color="darkblue",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-solid fa-child",
+        icon_color = "black"
+        )
+        #3. MARKER
+        daycare_marker = Marker(**daycare, icon = icon, radius = 2)
+        #4. ADD
+        daycare_marker.add_to(sfmap)
+
+    for index, row in df_metro5.iterrows():
+        #1. MARKER without icon
+        metro = {"location": [row["lat"], row["lon"]], "tooltip": "Metro station"}
+        #2. ICON
+        icon = Icon (
+        color="red",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-subway",
+        icon_color = "black"
+        )
+        #3. MARKER
+        metro_marker = Marker(**metro, icon = icon, radius = 2)
+        #4. ADD
+        metro_marker.add_to(sfmap)
+        
+    for index, row in df_night_club5.iterrows():
+        #1. MARKER without icon
+        night = {"location": [row["lat"], row["lon"]], "tooltip": "Night club"}
+        #2. ICON
+        icon = Icon (
+        color="beige",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-glass",
+        icon_color = "black"
+        )
+        #3. MARKER
+        night_marker = Marker(**night, icon = icon, radius = 2)
+        #4. ADD
+        night_marker.add_to(sfmap)
+        
+    for index, row in df_pets5.iterrows():
+        #1. MARKER without icon
+        pets = {"location": [row["lat"], row["lon"]], "tooltip": "Pet grooming"}
+        #2. ICON
+        icon = Icon (
+        color="orange",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-paw",
+        icon_color = "black"
+        )
+        #3. MARKER
+        pets_marker = Marker(**pets, icon = icon, radius = 2)
+        #4. ADD
+        pets_marker.add_to(sfmap)
+        
+    for index, row in df_starbucks5.iterrows():
+        #1. MARKER without icon
+        starbucks = {"location": [row["lat"], row["lon"]], "tooltip": "Starbucks"}
+        #2. ICON
+        icon = Icon (
+        color="darkgreen",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-coffee",
+        icon_color = "black"
+        )
+        #3. MARKER
+        starbucks_marker = Marker(**starbucks, icon = icon, radius = 2)
+        #4. ADD
+        starbucks_marker.add_to(sfmap)
+        
+    for index, row in df_train5.iterrows():
+        #1. MARKER without icon
+        train = {"location": [row["lat"], row["lon"]], "tooltip": "Train station"}
+        #2. ICON
+        icon = Icon (
+        color="black",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-train",
+        icon_color = "white"
+        )
+        #3. MARKER
+        train_marker = Marker(**train, icon = icon, radius = 2)
+        #4. ADD
+        train_marker.add_to(sfmap)
+
+    for index, row in df_tram5.iterrows():
+        #1. MARKER without icon
+        tram = {"location": [row["lat"], row["lon"]], "tooltip": "Tram station"}
+        #2. ICON
+        icon = Icon (
+        color="pink",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-train",
+        icon_color = "black"
+        )
+        #3. MARKER
+        tram_marker = Marker(**tram, icon = icon, radius = 2)
+        #4. ADD
+        tram_marker.add_to(sfmap)
+        
+    for index, row in df_vegan5.iterrows():
+        #1. MARKER without icon
+        vegan = {"location": [row["lat"], row["lon"]], "tooltip": "Vegan restaurant"}
+        #2. ICON
+        icon = Icon (
+        color="green",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-leaf",
+        icon_color = "black"
+        )
+        #3. MARKER
+        vegan_marker = Marker(**vegan, icon = icon, radius = 2)
+        #4. ADD
+        vegan_marker.add_to(sfmap)
+
+    
+
+    #Iteration and markers for Exent
+
+    for index, row in df_bus7.iterrows():
+        #1. MARKER without icon
+        exent = {"location": [37.787646, -122.402759], "tooltip": "Exent"}
+        #2. ICON
+        icon = Icon (
+        color="blue",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-briefcase",
+        icon_color = "black"
+        )
+        #3. MARKER
+        exent_marker = Marker(**exent, icon = icon, radius = 2)
+        #4. ADD
+        exent_marker.add_to(sfmap)
+
+    for index, row in df_bus7.iterrows():
+        #1. MARKER without icon
+        bus = {"location": [row["lat"], row["lon"]], "tooltip": "Bus station"}
+        #2. ICON
+        icon = Icon (
+        color="lightred",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-solid fa-bus",
+        icon_color = "black"
+        )
+        #3. MARKER
+        bus_marker = Marker(**bus, icon = icon, radius = 2)
+        #4. ADD
+        bus_marker.add_to(sfmap)
+
+    for index, row in df_daycare7.iterrows():
+        #1. MARKER without icon
+        daycare = {"location": [row["lat"], row["lon"]], "tooltip": "Daycare center"}
+        #2. ICON
+        icon = Icon (
+        color="darkblue",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-solid fa-child",
+        icon_color = "black"
+        )
+        #3. MARKER
+        daycare_marker = Marker(**daycare, icon = icon, radius = 2)
+        #4. ADD
+        daycare_marker.add_to(sfmap)
+
+    for index, row in df_metro7.iterrows():
+        #1. MARKER without icon
+        metro = {"location": [row["lat"], row["lon"]], "tooltip": "Metro station"}
+        #2. ICON
+        icon = Icon (
+        color="red",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-subway",
+        icon_color = "black"
+        )
+        #3. MARKER
+        metro_marker = Marker(**metro, icon = icon, radius = 2)
+        #4. ADD
+        metro_marker.add_to(sfmap)
+        
+    for index, row in df_night_club7.iterrows():
+        #1. MARKER without icon
+        night = {"location": [row["lat"], row["lon"]], "tooltip": "Night club"}
+        #2. ICON
+        icon = Icon (
+        color="beige",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-glass",
+        icon_color = "black"
+        )
+        #3. MARKER
+        night_marker = Marker(**night, icon = icon, radius = 2)
+        #4. ADD
+        night_marker.add_to(sfmap)
+        
+    for index, row in df_pets7.iterrows():
+        #1. MARKER without icon
+        pets = {"location": [row["lat"], row["lon"]], "tooltip": "Pet grooming"}
+        #2. ICON
+        icon = Icon (
+        color="orange",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-paw",
+        icon_color = "black"
+        )
+        #3. MARKER
+        pets_marker = Marker(**pets, icon = icon, radius = 2)
+        #4. ADD
+        pets_marker.add_to(sfmap)
+        
+    for index, row in df_starbucks7.iterrows():
+        #1. MARKER without icon
+        starbucks = {"location": [row["lat"], row["lon"]], "tooltip": "Starbucks"}
+        #2. ICON
+        icon = Icon (
+        color="darkgreen",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-coffee",
+        icon_color = "black"
+        )
+        #3. MARKER
+        starbucks_marker = Marker(**starbucks, icon = icon, radius = 2)
+        #4. ADD
+        starbucks_marker.add_to(sfmap)
+        
+    for index, row in df_train7.iterrows():
+        #1. MARKER without icon
+        train = {"location": [row["lat"], row["lon"]], "tooltip": "Train station"}
+        #2. ICON
+        icon = Icon (
+        color="black",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-train",
+        icon_color = "white"
+        )
+        #3. MARKER
+        train_marker = Marker(**train, icon = icon, radius = 2)
+        #4. ADD
+        train_marker.add_to(sfmap)
+
+    for index, row in df_tram7.iterrows():
+        #1. MARKER without icon
+        tram = {"location": [row["lat"], row["lon"]], "tooltip": "Tram station"}
+        #2. ICON
+        icon = Icon (
+        color="pink",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-train",
+        icon_color = "black"
+        )
+        #3. MARKER
+        tram_marker = Marker(**tram, icon = icon, radius = 2)
+        #4. ADD
+        tram_marker.add_to(sfmap)
+        
+    for index, row in df_vegan7.iterrows():
+        #1. MARKER without icon
+        vegan = {"location": [row["lat"], row["lon"]], "tooltip": "Vegan restaurant"}
+        #2. ICON
+        icon = Icon (
+        color="green",
+        opacity = 0.6,
+        prefix = "fa",
+        icon="fa-leaf",
+        icon_color = "black"
+        )
+        #3. MARKER
+        vegan_marker = Marker(**vegan, icon = icon, radius = 2)
+        #4. ADD
+        vegan_marker.add_to(sfmap)
+    
+    return sfmap
