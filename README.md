@@ -148,4 +148,38 @@ Thus, it is possible to confirm that Kabam and Exent (from NY) companies are NOT
 
 ### Weighing distances and variables
 
-In order to conclude the winner of this round, we need to
+In order to conclude the winner of this round, it was necessary to attribute a rank to the distances and variables.
+
+For the distances, it is logic to think that if a location is closer, it will get more points. Therefore, the following states were proposed:
+
+- If the distance is between 0 and 200 m, it gets 100 points.
+- If the distance is between 200 and 400, it gets 75 points.
+- If the distance is between 400 and 600 m, it gets 50 points.
+- If the distance is between 600 and 800 m, it gets 25 points.
+- If the distance is 0 or beyond 800 m, it gets 0 points.
+
+The punctuations are appended in a new individual column, like this:
+
+![](images/scores.PNG)
+
+The last step is to put a weigh in each variable, which is calculated in function of the number of workforce interested in:
+
+- Vegan restaurant: 6,9 %
+- Daycare service: 16,6 %
+- Night clubs: 25 %
+- Bus, train, metro, tram stations and airport: 12,5 %
+- Basket court: 6,9 %
+- Pet grooming service: 6,9%
+- Starbucks: 25 %
+
+### Who's the winner?
+
+The final ranking will be calculated with the following formula:
+
+Total company score = Item weight 1 * Distance score 1 * Frequency item 1 + Item weight 2 * Distance score 2* Frequency item 2... Item weight 11 * Distance score 11 * Frequency item 11.
+
+![](images/final%20ranking.PNG)
+
+## 7. Data visualization
+
+![](images/seriousbusiness.PNG)
