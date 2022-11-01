@@ -186,6 +186,8 @@ The last step is to put a weigh in each variable, which is calculated in functio
 
 The final ranking will be calculated with the following formula:
 
+![](images/formula.PNG)
+
 Total company score = Item weight 1 * Distance score 1 * Frequency item 1 + Item weight 2 * Distance score 2* Frequency item 2... Item weight 11 * Distance score 11 * Frequency item 11.
 
 ![](images/final%20ranking.PNG)
