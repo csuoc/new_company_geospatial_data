@@ -1,5 +1,7 @@
 # This is not a game: finding the best location for a recently founded company
 
+![](images/sanfrancisco.jpg)
+
 A recently created a new company in the GAMING industry will have the following scheme:
 
 - 20 Designers
