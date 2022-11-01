@@ -194,9 +194,13 @@ Well, let's see at the visualization of both companies and their surroundings.
 
 ## 7. Data visualization & conclusion
 
+Interactive version HERE:
+
+https://nbviewer.org/github/csuoc/third_project_geospatial_data/blob/main/src/Data_Visualization.ipynb
+
 The LIGHT BLUE icons represent both Serious Business and Exent in San Francisco. Look how close they are! This is the explanation why the final scores are very similar.
 
-Note: the interactive map can be seen in Data_visualization.ipynb file
+
 
 ![](images/map.PNG)
 
