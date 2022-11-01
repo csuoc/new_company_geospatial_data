@@ -36,6 +36,11 @@ The coordinates were extracted with the Foursquare API and appended in a separat
 
 ## 3. File contents
 
+- data/ --> All csv files extracted from the cleaning and exploratory processes.
+- images/ --> Images helpful to explain this project
+- src/ --> All the .py and .ipynb files
+- README --> What you are reading right now
+  
 ## 4. Function definitions
 
 The first step was to define all the necessary functions to clean my datasets. For example, a function to remove columns would be:
@@ -44,6 +49,9 @@ The first step was to define all the necessary functions to clean my datasets. F
 All functions can be found at Functions.py file.
 
 ## 5. Data extraction and cleaning
+```
+The details if this process can be checked in Data_Analayis.ipynb file.
+```
 
 The second step was to filter and clean the database from Mongo.
 
@@ -180,6 +188,25 @@ Total company score = Item weight 1 * Distance score 1 * Frequency item 1 + Item
 
 ![](images/final%20ranking.PNG)
 
-## 7. Data visualization
+The winner is SERIOUS BUSINESS, although only for less than 5 points from the second one, Exent! This is weird, right?
 
-![](images/seriousbusiness.PNG)
+Well, let's see at the visualization of both companies and their surroundings.
+
+## 7. Data visualization & conclusion
+
+The LIGHT BLUE icons represent both Serious Business and Exent. Look how close they are! This is the explanation why the final scores are very similar.
+
+Note: the interactive map can be seen in Data_visualization.ipynb file
+
+![](images/map.PNG)
+
+Both companies have everything needed in a radius of 750 meters:
+
+- Daycare service for children
+- Multiple transport services
+- Starbucks. A lot of Starbucks
+- And a lot of night clubs to spend the after hours
+  
+## 8. Links and resources
+
+- https://imedea.uib-csic.es/master/cambioglobal/Modulo_V_cod101615/Theory/mda_theory.pdf
