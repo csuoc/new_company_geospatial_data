@@ -200,7 +200,7 @@ https://nbviewer.org/github/csuoc/third_project_geospatial_data/blob/main/src/Da
 
 The LIGHT BLUE icons represent both Serious Business and Exent in San Francisco. Look how close they are! This is the explanation why the final scores are very similar.
 
-
+The blue circle represents an area of radius = 750 m.
 
 ![](images/map.PNG)
 

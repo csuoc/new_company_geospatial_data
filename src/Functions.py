@@ -211,6 +211,8 @@ def roundval(df, column_name, n):
 
 def plot_Serious_Business_Exent():
 
+    import folium
+    
     # Read CSV from SB
     df_bus5 = pd.read_csv("../data/5bus.csv")
     df_daycare5 = pd.read_csv("../data/5daycare.csv")
@@ -258,7 +260,8 @@ def plot_Serious_Business_Exent():
     # Map creation
 
     sfmap = Map(location = [37.789321, -122.401362], zoom_start = 15)
-
+    folium.Circle(location = [37.789321, -122.401362], radius = 750).add_to(sfmap)
+    
     #Iteration and markers for Serious Business
 
     for index, row in df_bus5.iterrows():
