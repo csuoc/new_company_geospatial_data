@@ -1,16 +1,16 @@
-# Best company, best place
+# This is not a game: finding the best location for a recently founded company
 
 A recently created a new company in the GAMING industry will have the following scheme:
 
-20 Designers
-5 UI/UX Engineers
-10 Frontend Developers
-15 Data Engineers
-5 Backend Developers
-20 Account Managers
-1 Maintenance guy that loves basketball
-10 Executives
-1 CEO/President.
+- 20 Designers
+- 5 UI/UX Engineers
+- 10 Frontend Developers
+- 15 Data Engineers
+- 5 Backend Developers
+- 20 Account Managers
+- 1 Maintenance guy that loves basketball
+- 10 Executives
+- 1 CEO/President.
 
 As a data engineer you have asked all the employees to show their preferences on where to place the new office. My goal is to place the new company offices in the best place for the company to grow. 
 
@@ -194,7 +194,7 @@ Well, let's see at the visualization of both companies and their surroundings.
 
 ## 7. Data visualization & conclusion
 
-The LIGHT BLUE icons represent both Serious Business and Exent. Look how close they are! This is the explanation why the final scores are very similar.
+The LIGHT BLUE icons represent both Serious Business and Exent in San Francisco. Look how close they are! This is the explanation why the final scores are very similar.
 
 Note: the interactive map can be seen in Data_visualization.ipynb file
 
